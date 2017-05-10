@@ -1,2 +1,2 @@
 # Python-Data
-Python Data Analysis notebooks for fun :)
+Python Data Analytics notebooks and datasets. Just for fun and practice :)
