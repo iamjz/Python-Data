@@ -1,0 +1,1418 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "dpkg-upyz",
+      "name" : "Chicago Microlending Institute (CMI) Microloans",
+      "attribution" : "City of Chicago",
+      "attributionLink" : "http://www.cityofchicago.org",
+      "averageRating" : 0,
+      "category" : "Community & Economic Development",
+      "createdAt" : 1422471262,
+      "description" : "To improve access to capital, the City of Chicago seeded a $2MM revolving loan fund and partnered with Accion to create the Chicago Microlending Institute (CMI).  CMI helped train two new local microlenders, Chicago Neighborhood Initiatives (CNI) and Women’s Business Development Corporation (WBDC), to help connect small businesses around the city to affordable access to capital.  These microloans vary in size from $500 to $25,000 and the average loan size is around $10,000.  This dataset reflects the lender, location, business industry, and borrower demographics for small businesses supported by the City’s revolving loan fund. Certain data elements could not be included on a per-loan basis for privacy reasons but are summarized in the https://data.cityofchicago.org/id/4s8s-adbr dataset.",
+      "displayType" : "table",
+      "downloadCount" : 805,
+      "hideFromCatalog" : false,
+      "hideFromDataJson" : false,
+      "indexUpdatedAt" : 1456500479,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 18214026,
+      "provenance" : "official",
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1456500223,
+      "publicationGroup" : 2162919,
+      "publicationStage" : "published",
+      "rowClass" : "",
+      "rowsUpdatedAt" : 1456441970,
+      "rowsUpdatedBy" : "vewm-vupz",
+      "tableId" : 8407800,
+      "totalTimesRated" : 0,
+      "viewCount" : 1020,
+      "viewLastModified" : 1456500223,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : 244176305,
+        "name" : "Loan Date",
+        "dataTypeName" : "calendar_date",
+        "fieldName" : "loan_date",
+        "position" : 1,
+        "renderTypeName" : "calendar_date",
+        "tableColumnId" : 24229255,
+        "width" : 138,
+        "cachedContents" : {
+          "non_null" : 251,
+          "largest" : "2016-02-16T00:00:00",
+          "null" : 1,
+          "top" : [ {
+            "item" : "2012-11-10T00:00:00",
+            "count" : 20
+          }, {
+            "item" : "2013-05-30T00:00:00",
+            "count" : 19
+          }, {
+            "item" : "2013-10-07T00:00:00",
+            "count" : 18
+          }, {
+            "item" : "2015-09-22T00:00:00",
+            "count" : 17
+          }, {
+            "item" : "2014-01-30T00:00:00",
+            "count" : 16
+          }, {
+            "item" : "2012-12-04T00:00:00",
+            "count" : 15
+          }, {
+            "item" : "2014-07-30T00:00:00",
+            "count" : 14
+          }, {
+            "item" : "2014-04-09T00:00:00",
+            "count" : 13
+          }, {
+            "item" : "2016-01-13T00:00:00",
+            "count" : 12
+          }, {
+            "item" : "2014-11-25T00:00:00",
+            "count" : 11
+          }, {
+            "item" : "2012-12-10T00:00:00",
+            "count" : 10
+          }, {
+            "item" : "2013-06-28T00:00:00",
+            "count" : 9
+          }, {
+            "item" : "2013-12-16T00:00:00",
+            "count" : 8
+          }, {
+            "item" : "2013-06-12T00:00:00",
+            "count" : 7
+          }, {
+            "item" : "2015-01-30T00:00:00",
+            "count" : 6
+          }, {
+            "item" : "2013-07-10T00:00:00",
+            "count" : 5
+          }, {
+            "item" : "2015-03-09T00:00:00",
+            "count" : 4
+          }, {
+            "item" : "2015-04-01T00:00:00",
+            "count" : 3
+          }, {
+            "item" : "2015-08-28T00:00:00",
+            "count" : 2
+          }, {
+            "item" : "2014-05-21T00:00:00",
+            "count" : 1
+          } ],
+          "smallest" : "2012-01-10T00:00:00"
+        },
+        "format" : {
+          "view" : "date",
+          "align" : "left"
+        }
+      }, {
+        "id" : 244176306,
+        "name" : "Lender",
+        "dataTypeName" : "text",
+        "fieldName" : "lender",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 24229256,
+        "width" : 108,
+        "cachedContents" : {
+          "non_null" : 252,
+          "largest" : "WBDC",
+          "null" : 0,
+          "top" : [ {
+            "item" : "Accion",
+            "count" : 20
+          }, {
+            "item" : "WBDC",
+            "count" : 19
+          }, {
+            "item" : "CNI",
+            "count" : 18
+          } ],
+          "smallest" : "Accion"
+        },
+        "format" : {
+          "align" : "left",
+          "aggregate" : "count"
+        }
+      }, {
+        "id" : 244176307,
+        "name" : "Block",
+        "dataTypeName" : "text",
+        "description" : "The block of the borrower's address.",
+        "fieldName" : "block",
+        "position" : 3,
+        "renderTypeName" : "text",
+        "tableColumnId" : 24229257,
+        "width" : 161,
+        "cachedContents" : {
+          "non_null" : 251,
+          "largest" : "148XX",
+          "null" : 1,
+          "top" : [ {
+            "item" : "010XX",
+            "count" : 20
+          }, {
+            "item" : "011XX",
+            "count" : 19
+          }, {
+            "item" : "015XX",
+            "count" : 18
+          }, {
+            "item" : "016XX",
+            "count" : 17
+          }, {
+            "item" : "017XX",
+            "count" : 16
+          }, {
+            "item" : "033XX",
+            "count" : 15
+          }, {
+            "item" : "003XX",
+            "count" : 14
+          }, {
+            "item" : "038XX",
+            "count" : 13
+          }, {
+            "item" : "039XX",
+            "count" : 12
+          }, {
+            "item" : "040XX",
+            "count" : 11
+          }, {
+            "item" : "043XX",
+            "count" : 10
+          }, {
+            "item" : "045XX",
+            "count" : 9
+          }, {
+            "item" : "048XX",
+            "count" : 8
+          }, {
+            "item" : "000XX",
+            "count" : 7
+          }, {
+            "item" : "053XX",
+            "count" : 6
+          }, {
+            "item" : "005XX",
+            "count" : 5
+          }, {
+            "item" : "059XX",
+            "count" : 4
+          }, {
+            "item" : "064XX",
+            "count" : 3
+          }, {
+            "item" : "006XX",
+            "count" : 2
+          }, {
+            "item" : "069XX",
+            "count" : 1
+          } ],
+          "smallest" : "000XX"
+        },
+        "format" : {
+          "align" : "right"
+        }
+      }, {
+        "id" : 244176308,
+        "name" : "Street Direction",
+        "dataTypeName" : "text",
+        "fieldName" : "street_direction",
+        "position" : 4,
+        "renderTypeName" : "text",
+        "tableColumnId" : 24229258,
+        "width" : 170,
+        "cachedContents" : {
+          "non_null" : 248,
+          "largest" : "W.",
+          "null" : 4,
+          "top" : [ {
+            "item" : "S",
+            "count" : 20
+          }, {
+            "item" : "E",
+            "count" : 19
+          }, {
+            "item" : "N",
+            "count" : 18
+          }, {
+            "item" : "S.",
+            "count" : 17
+          }, {
+            "item" : "W",
+            "count" : 16
+          }, {
+            "item" : " ",
+            "count" : 15
+          }, {
+            "item" : "W.",
+            "count" : 14
+          }, {
+            "item" : "S ",
+            "count" : 13
+          } ],
+          "smallest" : " "
+        },
+        "format" : { }
+      }, {
+        "id" : 244176309,
+        "name" : "Street Name",
+        "dataTypeName" : "text",
+        "fieldName" : "street_name",
+        "position" : 5,
+        "renderTypeName" : "text",
+        "tableColumnId" : 24229259,
+        "width" : 164,
+        "cachedContents" : {
+          "non_null" : 249,
+          "largest" : "Yates",
+          "null" : 3,
+          "top" : [ {
+            "item" : "Western",
+            "count" : 20
+          }, {
+            "item" : "87th",
+            "count" : 19
+          }, {
+            "item" : "Lawrence",
+            "count" : 18
+          }, {
+            "item" : "Lincoln",
+            "count" : 17
+          }, {
+            "item" : "Michigan",
+            "count" : 16
+          }, {
+            "item" : "Patterson",
+            "count" : 15
+          }, {
+            "item" : "Irving Pk.",
+            "count" : 14
+          }, {
+            "item" : "Pulaski",
+            "count" : 13
+          }, {
+            "item" : "75th",
+            "count" : 12
+          }, {
+            "item" : "Cermak",
+            "count" : 11
+          }, {
+            "item" : "Clyde",
+            "count" : 10
+          }, {
+            "item" : "Albany",
+            "count" : 9
+          }, {
+            "item" : "Calumet",
+            "count" : 8
+          }, {
+            "item" : "Shore",
+            "count" : 7
+          }, {
+            "item" : "Normal",
+            "count" : 6
+          }, {
+            "item" : "Stony Island",
+            "count" : 5
+          }, {
+            "item" : "Cornell",
+            "count" : 4
+          }, {
+            "item" : "Langley",
+            "count" : 3
+          }, {
+            "item" : "40th ",
+            "count" : 2
+          }, {
+            "item" : "Wabash",
+            "count" : 1
+          } ],
+          "smallest" : "102nd"
+        },
+        "format" : { }
+      }, {
+        "id" : 244176310,
+        "name" : "Street Type",
+        "dataTypeName" : "text",
+        "fieldName" : "street_type",
+        "position" : 6,
+        "renderTypeName" : "text",
+        "tableColumnId" : 24229260,
+        "width" : 142,
+        "cachedContents" : {
+          "non_null" : 249,
+          "largest" : "Street",
+          "null" : 3,
+          "top" : [ {
+            "item" : "Street",
+            "count" : 20
+          }, {
+            "item" : "Lafayette",
+            "count" : 19
+          }, {
+            "item" : "Avenue",
+            "count" : 18
+          }, {
+            "item" : "Drive",
+            "count" : 17
+          }, {
+            "item" : "St",
+            "count" : 16
+          }, {
+            "item" : "Boulevard",
+            "count" : 15
+          }, {
+            "item" : "Place",
+            "count" : 14
+          }, {
+            "item" : "Rd.",
+            "count" : 13
+          }, {
+            "item" : "Park",
+            "count" : 12
+          }, {
+            "item" : "St.",
+            "count" : 11
+          }, {
+            "item" : " Park ",
+            "count" : 10
+          }, {
+            "item" : "BLVD",
+            "count" : 9
+          }, {
+            "item" : "Road",
+            "count" : 8
+          }, {
+            "item" : " Avenue ",
+            "count" : 7
+          } ],
+          "smallest" : "Avenue"
+        },
+        "format" : { }
+      }, {
+        "id" : 244176311,
+        "name" : "City",
+        "dataTypeName" : "text",
+        "fieldName" : "city",
+        "position" : 7,
+        "renderTypeName" : "text",
+        "tableColumnId" : 24229261,
+        "width" : 148,
+        "cachedContents" : {
+          "non_null" : 252,
+          "largest" : "Dolton",
+          "null" : 0,
+          "top" : [ {
+            "item" : "Chicago",
+            "count" : 20
+          }, {
+            "item" : "Dolton",
+            "count" : 19
+          }, {
+            "item" : "CHICAGO",
+            "count" : 18
+          }, {
+            "item" : "Chicago ",
+            "count" : 17
+          } ],
+          "smallest" : "Chicago"
+        },
+        "format" : { }
+      }, {
+        "id" : 244176312,
+        "name" : "State",
+        "dataTypeName" : "text",
+        "fieldName" : "state",
+        "position" : 8,
+        "renderTypeName" : "text",
+        "tableColumnId" : 24229262,
+        "width" : 113,
+        "cachedContents" : {
+          "non_null" : 252,
+          "largest" : "IL ",
+          "null" : 0,
+          "top" : [ {
+            "item" : "IL",
+            "count" : 20
+          }, {
+            "item" : "IL ",
+            "count" : 19
+          } ],
+          "smallest" : "IL"
+        },
+        "format" : { }
+      }, {
+        "id" : 244176313,
+        "name" : "Zip",
+        "dataTypeName" : "text",
+        "fieldName" : "zip",
+        "position" : 9,
+        "renderTypeName" : "text",
+        "tableColumnId" : 24229263,
+        "width" : 136,
+        "cachedContents" : {
+          "non_null" : 252,
+          "largest" : "60707",
+          "null" : 0,
+          "top" : [ {
+            "item" : "60628",
+            "count" : 20
+          }, {
+            "item" : "60619",
+            "count" : 19
+          }, {
+            "item" : "60622",
+            "count" : 18
+          }, {
+            "item" : "60643",
+            "count" : 17
+          }, {
+            "item" : "60605",
+            "count" : 16
+          }, {
+            "item" : "60660",
+            "count" : 15
+          }, {
+            "item" : "60614",
+            "count" : 14
+          }, {
+            "item" : "60620",
+            "count" : 13
+          }, {
+            "item" : "60608",
+            "count" : 12
+          }, {
+            "item" : "60639",
+            "count" : 11
+          }, {
+            "item" : "60649",
+            "count" : 10
+          }, {
+            "item" : "60647",
+            "count" : 9
+          }, {
+            "item" : "60616",
+            "count" : 8
+          }, {
+            "item" : "60618",
+            "count" : 7
+          }, {
+            "item" : "60625",
+            "count" : 6
+          }, {
+            "item" : "60657",
+            "count" : 5
+          }, {
+            "item" : "60632",
+            "count" : 4
+          }, {
+            "item" : "60641",
+            "count" : 3
+          }, {
+            "item" : "60629",
+            "count" : 2
+          }, {
+            "item" : "60652",
+            "count" : 1
+          } ],
+          "smallest" : "60601"
+        },
+        "format" : { }
+      }, {
+        "id" : 244176314,
+        "name" : "Ward",
+        "dataTypeName" : "number",
+        "fieldName" : "ward",
+        "position" : 10,
+        "renderTypeName" : "number",
+        "tableColumnId" : 24229264,
+        "width" : 115,
+        "cachedContents" : {
+          "non_null" : 248,
+          "average" : "21.93548387096774",
+          "largest" : "50",
+          "null" : 4,
+          "top" : [ {
+            "item" : "9",
+            "count" : 20
+          }, {
+            "item" : "8",
+            "count" : 19
+          }, {
+            "item" : "26",
+            "count" : 18
+          }, {
+            "item" : "25",
+            "count" : 17
+          }, {
+            "item" : "34",
+            "count" : 16
+          }, {
+            "item" : "19",
+            "count" : 15
+          }, {
+            "item" : "2",
+            "count" : 14
+          }, {
+            "item" : "27",
+            "count" : 13
+          }, {
+            "item" : "48",
+            "count" : 12
+          }, {
+            "item" : "1",
+            "count" : 11
+          }, {
+            "item" : "32",
+            "count" : 10
+          }, {
+            "item" : "6",
+            "count" : 9
+          }, {
+            "item" : "42",
+            "count" : 8
+          }, {
+            "item" : "28",
+            "count" : 7
+          }, {
+            "item" : "7",
+            "count" : 6
+          }, {
+            "item" : "29",
+            "count" : 5
+          }, {
+            "item" : "47",
+            "count" : 4
+          }, {
+            "item" : "43",
+            "count" : 3
+          }, {
+            "item" : "18",
+            "count" : 2
+          }, {
+            "item" : "12",
+            "count" : 1
+          } ],
+          "smallest" : "1",
+          "sum" : "5440"
+        },
+        "format" : { }
+      }, {
+        "id" : 244176315,
+        "name" : "Industry",
+        "dataTypeName" : "text",
+        "fieldName" : "industry",
+        "position" : 11,
+        "renderTypeName" : "text",
+        "tableColumnId" : 24229265,
+        "width" : 196,
+        "cachedContents" : {
+          "non_null" : 247,
+          "largest" : "Wholesale",
+          "null" : 5,
+          "top" : [ {
+            "item" : "Other Services",
+            "count" : 20
+          }, {
+            "item" : "Construction/Repair",
+            "count" : 19
+          }, {
+            "item" : "Retail Sales - Other",
+            "count" : 18
+          }, {
+            "item" : "Beauty/Salon Services",
+            "count" : 17
+          }, {
+            "item" : "Restaurant - Full Service",
+            "count" : 16
+          }, {
+            "item" : "Day Care",
+            "count" : 15
+          }, {
+            "item" : "Transportation",
+            "count" : 14
+          }, {
+            "item" : "Food/Beverage",
+            "count" : 13
+          }, {
+            "item" : "Professional/Off Svc",
+            "count" : 12
+          }, {
+            "item" : "Medical Services",
+            "count" : 11
+          }, {
+            "item" : "Entertainment",
+            "count" : 10
+          }, {
+            "item" : "Arts/Crafts Production",
+            "count" : 9
+          }, {
+            "item" : "Retail Sales ",
+            "count" : 8
+          }, {
+            "item" : "Retail sales",
+            "count" : 7
+          }, {
+            "item" : "Service",
+            "count" : 6
+          }, {
+            "item" : "IT/Manufacturing",
+            "count" : 5
+          }, {
+            "item" : "Wholesale",
+            "count" : 4
+          }, {
+            "item" : "Retail Stores",
+            "count" : 3
+          }, {
+            "item" : "Fashion, jewelry, art and sewing/ jewelry classes",
+            "count" : 2
+          }, {
+            "item" : "Clothing/Material Production",
+            "count" : 1
+          } ],
+          "smallest" : "Arts/Crafts Production"
+        },
+        "format" : { }
+      }, {
+        "id" : 244176316,
+        "name" : "Latitude",
+        "dataTypeName" : "number",
+        "fieldName" : "latitude",
+        "position" : 12,
+        "renderTypeName" : "number",
+        "tableColumnId" : 24233059,
+        "width" : 100,
+        "cachedContents" : {
+          "non_null" : 245,
+          "average" : "41.84795907969796",
+          "largest" : "42.012241707",
+          "null" : 7,
+          "top" : [ {
+            "item" : "41.883134296",
+            "count" : 20
+          }, {
+            "item" : "41.79821668",
+            "count" : 19
+          }, {
+            "item" : "41.892511145",
+            "count" : 18
+          }, {
+            "item" : "41.785900266",
+            "count" : 17
+          }, {
+            "item" : "41.946795663",
+            "count" : 16
+          }, {
+            "item" : "41.852790641",
+            "count" : 15
+          }, {
+            "item" : "41.758680511",
+            "count" : 14
+          }, {
+            "item" : "41.894322521",
+            "count" : 13
+          }, {
+            "item" : "41.896317588",
+            "count" : 12
+          }, {
+            "item" : "41.895305694",
+            "count" : 11
+          }, {
+            "item" : "41.883256433",
+            "count" : 10
+          }, {
+            "item" : "41.757403429",
+            "count" : 9
+          }, {
+            "item" : "41.752003688",
+            "count" : 8
+          }, {
+            "item" : "41.75322778",
+            "count" : 7
+          }, {
+            "item" : "41.753007302",
+            "count" : 6
+          }, {
+            "item" : "41.747411671",
+            "count" : 5
+          }, {
+            "item" : "41.748143549",
+            "count" : 4
+          }, {
+            "item" : "41.746689547",
+            "count" : 3
+          }, {
+            "item" : "41.746075485",
+            "count" : 2
+          }, {
+            "item" : "41.821834711",
+            "count" : 1
+          } ],
+          "smallest" : "41.648211288",
+          "sum" : "10252.749974526"
+        },
+        "format" : { }
+      }, {
+        "id" : 244176317,
+        "name" : "Longitude",
+        "dataTypeName" : "number",
+        "fieldName" : "longitude",
+        "position" : 13,
+        "renderTypeName" : "number",
+        "tableColumnId" : 24233060,
+        "width" : 100,
+        "cachedContents" : {
+          "non_null" : 245,
+          "average" : "-87.66323667559592",
+          "largest" : "-87.545772832",
+          "null" : 7,
+          "top" : [ {
+            "item" : "-87.637191526",
+            "count" : 20
+          }, {
+            "item" : "-87.58416835",
+            "count" : 19
+          }, {
+            "item" : "-87.624330958",
+            "count" : 18
+          }, {
+            "item" : "-87.622383571",
+            "count" : 17
+          }, {
+            "item" : "-87.776116779",
+            "count" : 16
+          }, {
+            "item" : "-87.64364221",
+            "count" : 15
+          }, {
+            "item" : "-87.605796969",
+            "count" : 14
+          }, {
+            "item" : "-87.775263449",
+            "count" : 13
+          }, {
+            "item" : "-87.635840254",
+            "count" : 12
+          }, {
+            "item" : "-87.702341905",
+            "count" : 11
+          }, {
+            "item" : "-87.647365592",
+            "count" : 10
+          }, {
+            "item" : "-87.573811245",
+            "count" : 9
+          }, {
+            "item" : "-87.700161747",
+            "count" : 8
+          }, {
+            "item" : "-87.616735646",
+            "count" : 7
+          }, {
+            "item" : "-87.549326948",
+            "count" : 6
+          }, {
+            "item" : "-87.636787879",
+            "count" : 5
+          }, {
+            "item" : "-87.586046897",
+            "count" : 4
+          }, {
+            "item" : "-87.584327648",
+            "count" : 3
+          }, {
+            "item" : "-87.607663164",
+            "count" : 2
+          }, {
+            "item" : "-87.604472033",
+            "count" : 1
+          } ],
+          "smallest" : "-87.879182873",
+          "sum" : "-21477.492985521"
+        },
+        "format" : { }
+      }, {
+        "id" : 244176318,
+        "name" : "Location",
+        "dataTypeName" : "location",
+        "fieldName" : "location",
+        "position" : 14,
+        "renderTypeName" : "location",
+        "tableColumnId" : 24229268,
+        "width" : 196,
+        "cachedContents" : {
+          "non_null" : 245,
+          "largest" : {
+            "latitude" : "41.72039067363381",
+            "longitude" : "-87.614253605716"
+          },
+          "null" : 7,
+          "top" : [ {
+            "item" : {
+              "latitude" : "41.883134295897996",
+              "longitude" : "-87.63719152602066"
+            },
+            "count" : 20
+          }, {
+            "item" : {
+              "latitude" : "41.798216680103366",
+              "longitude" : "-87.58416834977304"
+            },
+            "count" : 19
+          }, {
+            "item" : {
+              "latitude" : "41.892511144939995",
+              "longitude" : "-87.62433095779593"
+            },
+            "count" : 18
+          }, {
+            "item" : {
+              "latitude" : "41.78590026550305",
+              "longitude" : "-87.62238357058168"
+            },
+            "count" : 17
+          }, {
+            "item" : {
+              "latitude" : "41.94679566343606",
+              "longitude" : "-87.77611677888262"
+            },
+            "count" : 16
+          }, {
+            "item" : {
+              "latitude" : "41.8527906409648",
+              "longitude" : "-87.64364221017235"
+            },
+            "count" : 15
+          }, {
+            "item" : {
+              "latitude" : "41.75868051133181",
+              "longitude" : "-87.6057969688689"
+            },
+            "count" : 14
+          }, {
+            "item" : {
+              "latitude" : "41.89432252118052",
+              "longitude" : "-87.7752634491091"
+            },
+            "count" : 13
+          }, {
+            "item" : {
+              "latitude" : "41.89631758778245",
+              "longitude" : "-87.63584025366825"
+            },
+            "count" : 12
+          }, {
+            "item" : {
+              "latitude" : "41.895305693631336",
+              "longitude" : "-87.70234190452632"
+            },
+            "count" : 11
+          }, {
+            "item" : {
+              "latitude" : "41.88325643339401",
+              "longitude" : "-87.64736559214563"
+            },
+            "count" : 10
+          }, {
+            "item" : {
+              "latitude" : "41.757403428767546",
+              "longitude" : "-87.57381124532786"
+            },
+            "count" : 9
+          }, {
+            "item" : {
+              "latitude" : "41.75200368812746",
+              "longitude" : "-87.70016174705742"
+            },
+            "count" : 8
+          }, {
+            "item" : {
+              "latitude" : "41.753227780189036",
+              "longitude" : "-87.6167356456003"
+            },
+            "count" : 7
+          }, {
+            "item" : {
+              "latitude" : "41.753007302343704",
+              "longitude" : "-87.54932694804312"
+            },
+            "count" : 6
+          }, {
+            "item" : {
+              "latitude" : "41.74741167131879",
+              "longitude" : "-87.63678787937967"
+            },
+            "count" : 5
+          }, {
+            "item" : {
+              "latitude" : "41.74814354870762",
+              "longitude" : "-87.58604689738195"
+            },
+            "count" : 4
+          }, {
+            "item" : {
+              "latitude" : "41.74668954706293",
+              "longitude" : "-87.58432764795074"
+            },
+            "count" : 3
+          }, {
+            "item" : {
+              "latitude" : "41.746075484832126",
+              "longitude" : "-87.60766316408197"
+            },
+            "count" : 2
+          }, {
+            "item" : {
+              "latitude" : "41.82183471067724",
+              "longitude" : "-87.6044720325633"
+            },
+            "count" : 1
+          } ],
+          "smallest" : {
+            "latitude" : "41.7092858973584",
+            "longitude" : "-87.62492527406924"
+          }
+        },
+        "format" : {
+          "view" : "coords",
+          "align" : "left"
+        },
+        "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Metadata" : {
+            "Time Period" : "Current as of Q1 2016",
+            "Data Owner" : "Business Affairs & Consumer Protection",
+            "Frequency" : "Quarterly"
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "rowLabel" : "Row",
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "jsonQuery" : {
+          "order" : [ {
+            "ascending" : true,
+            "columnFieldName" : "loan_date"
+          }, {
+            "ascending" : true,
+            "columnFieldName" : "lender"
+          }, {
+            "ascending" : true,
+            "columnFieldName" : "block"
+          }, {
+            "ascending" : true,
+            "columnFieldName" : "street_direction"
+          }, {
+            "ascending" : true,
+            "columnFieldName" : "street_name"
+          }, {
+            "ascending" : true,
+            "columnFieldName" : "street_type"
+          } ]
+        },
+        "rdfSubject" : "0",
+        "rowIdentifier" : "0",
+        "rdfClass" : ""
+      },
+      "owner" : {
+        "id" : "vewm-vupz",
+        "displayName" : "Jonathan Levy",
+        "roleName" : "administrator",
+        "screenName" : "Jonathan Levy",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards", "manage_provenance", "create_story", "edit_story_title_desc", "create_story_copy", "delete_story", "manage_story_collaborators", "manage_story_visibility", "manage_story_public_version", "edit_story", "view_unpublished_story", "view_story", "view_all_dataset_status_logs", "use_data_connectors" ]
+      },
+      "query" : {
+        "orderBys" : [ {
+          "ascending" : true,
+          "expression" : {
+            "columnId" : 244176305,
+            "type" : "column"
+          }
+        }, {
+          "ascending" : true,
+          "expression" : {
+            "columnId" : 244176306,
+            "type" : "column"
+          }
+        }, {
+          "ascending" : true,
+          "expression" : {
+            "columnId" : 244176307,
+            "type" : "column"
+          }
+        }, {
+          "ascending" : true,
+          "expression" : {
+            "columnId" : 244176308,
+            "type" : "column"
+          }
+        }, {
+          "ascending" : true,
+          "expression" : {
+            "columnId" : 244176309,
+            "type" : "column"
+          }
+        }, {
+          "ascending" : true,
+          "expression" : {
+            "columnId" : 244176310,
+            "type" : "column"
+          }
+        } ]
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "vewm-vupz",
+        "displayName" : "Jonathan Levy",
+        "roleName" : "administrator",
+        "screenName" : "Jonathan Levy",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards", "manage_provenance", "create_story", "edit_story_title_desc", "create_story_copy", "delete_story", "manage_story_collaborators", "manage_story_visibility", "manage_story_public_version", "edit_story", "view_unpublished_story", "view_story", "view_all_dataset_status_logs", "use_data_connectors" ]
+      },
+      "tags" : [ "community & economic development", "small business", "business", "loans", "business loans", "microloans", "microlenders", "capital access centers", "finance" ],
+      "flags" : [ "default", "restorable", "restorePossibleForType" ]
+    }
+  },
+  "data" : [ [ 1, "CAB3E0EA-54FF-4502-902A-092B10ECDAF8", 1, 1456413152, "390945", 1456413152, "390945", null, "2014-04-24T00:00:00", "Accion", null, null, null, null, "Chicago", "IL", "60621", null, "Other Services", null, null, [ null, null, null, null, null ] ]
+, [ 2, "83DC4C30-85A5-4306-8C59-8558C087C1FB", 2, 1456413152, "390945", 1456413152, "390945", null, "2014-12-12T00:00:00", "Accion", "101XX", "S", "Lafayette", "Street", "Chicago", "IL", "60628", "9", "Construction/Repair", "41.709285897", "-87.624925274", [ null, "41.7092858973584", "-87.62492527406924", null, false ] ]
+, [ 3, "CF850AD1-880F-4BAB-8F04-0A82BB939E20", 3, 1456413152, "390945", 1456413152, "390945", null, "2013-09-06T00:00:00", "Accion", "101XX", "S", "S", "Lafayette", "Chicago", "IL", "60628", "9", "Construction/Repair", null, null, [ null, null, null, null, null ] ]
+, [ 4, "6AD8DB81-0B26-45E3-9EAD-A890524AD7E9", 4, 1456413152, "390945", 1456413152, "390945", null, "2015-10-08T00:00:00", "WBDC", "010XX", "E", "43rd ", "Street", "Chicago", "IL", "60653", "4", "Retail Sales - Other", "41.817000516", "-87.599814358", [ null, "41.817000515731735", "-87.59981435844077", null, false ] ]
+, [ 5, "B9E8523F-3973-401F-AEA6-570D87582718", 5, 1456413152, "390945", 1456413152, "390945", null, "2014-11-20T00:00:00", "Accion", "010XX", "E", "76th", "Street", "Chicago", "IL", "60619", "8", "Beauty/Salon Services", "41.75705433", "-87.598819545", [ null, "41.75705432976649", "-87.59881954520198", null, false ] ]
+, [ 6, "ED7F6BF7-CC96-4EEF-BEBA-44863475907F", 6, 1456413152, "390945", 1456413152, "390945", null, "2013-07-29T00:00:00", "Accion", "010XX", "E", "76th", "Street", "Chicago", "IL", "60619", "8", "Beauty/Salon Services", "41.75705433", "-87.598819545", [ null, "41.75705432976649", "-87.59881954520198", null, false ] ]
+, [ 7, "AB5A69E4-F77A-45FA-94D9-19687C171092", 7, 1456413152, "390945", 1456413152, "390945", null, "2015-02-18T00:00:00", "Accion", "010XX", "N", "California", "Avenue", "Chicago", "IL", "60622", "26", "Restaurant - Full Service", "41.900760711", "-87.696975027", [ null, "41.90076071102569", "-87.6969750268571", null, false ] ]
+, [ 8, "22A2F772-6376-420D-B8C3-FAE40F982820", 8, 1456413152, "390945", 1456413152, "390945", null, "2013-08-08T00:00:00", "WBDC", "010XX", "S", "Western", "Avenue", "Chicago", "IL", "60612", "25", "Retail Sales - Other", "41.868456183", "-87.686235717", [ null, "41.868456183272436", "-87.6862357173699", null, false ] ]
+, [ 9, "4CE4BF02-3A2C-48F1-810E-C8150FCCC1F9", 9, 1456413152, "390945", 1456413152, "390945", null, "2015-05-15T00:00:00", "WBDC", "010XX", "S", "Western", "Avenue", "Chicago", "IL", "60612", "25", "Retail Sales - Other", "41.868456183", "-87.686235717", [ null, "41.868456183272436", "-87.6862357173699", null, false ] ]
+, [ 10, "412D2AB7-F8FB-4279-8BCA-DFFAF3C36EC7", 10, 1456413152, "390945", 1456413152, "390945", null, "2014-11-10T00:00:00", "Accion", "106XX", "S", "Halsted", "Street", "Chicago", "IL", "60628", "34", "Day Care", "41.69995513", "-87.642763331", [ null, "41.69995513017958", "-87.64276333101112", null, false ] ]
+, [ 11, "95CB9354-6F9A-47FE-B473-F3BC47FD3158", 11, 1456413152, "390945", 1456413152, "390945", null, "2015-09-10T00:00:00", "CNI", "106XX", "S", "Yates", "Avenue", "Chicago", "IL", "60617", "41", "Other Services", "41.701271823", "-87.564135629", [ null, "41.70127182319375", "-87.56413562869531", null, false ] ]
+, [ 12, "29DDD9C7-BD64-46E4-8641-DAD2B21EA5AF", 12, 1456413152, "390945", 1456413152, "390945", null, "2013-10-30T00:00:00", "CNI", "107XX", "S", "Eberhart", "Street", "Chicago", "IL", "60628", "9", "Transportation", "41.698513608", "-87.611230373", [ null, "41.69851360795925", "-87.61123037310675", null, false ] ]
+, [ 13, "71073A4A-C505-42C8-9B59-DDF9E87B9B2B", 13, 1456413152, "390945", 1456413152, "390945", null, "2013-08-13T00:00:00", "CNI", "108XX", "S", "King Drive", "Avenue", "Chicago", "IL", "60628", "9", "Food/Beverage", null, null, [ null, null, null, null, null ] ]
+, [ 14, "3E409BE8-6C18-4C2D-A5A5-CBA28E4632D7", 14, 1456413152, "390945", 1456413152, "390945", null, "2013-01-11T00:00:00", "CNI", "108XX", "S", "Langley", "Avenue", "Chicago", "IL", "60628", "9", "Transportation", "41.696425687", "-87.606214973", [ null, "41.69642568689714", "-87.60621497304894", null, false ] ]
+, [ 15, "6AC941D8-0303-4B97-9706-3A961596B6ED", 15, 1456413152, "390945", 1456413152, "390945", null, "2013-10-07T00:00:00", "CNI", "108XX", "S", "Langley", "Street", "Chicago", "IL", "60628", "9", "Transportation", "41.696425687", "-87.606214973", [ null, "41.69642568689714", "-87.60621497304894", null, false ] ]
+, [ 16, "12309581-FDC7-4D92-9E5F-81C35A71AB39", 16, 1456413152, "390945", 1456413152, "390945", null, "2014-11-06T00:00:00", "Accion", "111XX", "S", "Longwood", "Drive", "Chicago", "IL", "60643", "19", "Professional/Off Svc", "41.690441874", "-87.672331394", [ null, "41.69044187443449", "-87.67233139407176", null, false ] ]
+, [ 17, "3959E909-453C-45E3-B1D9-E6C44DABE137", 17, 1456413152, "390945", 1456413152, "390945", null, "2014-10-20T00:00:00", "Accion", "111XX", "S", "Western", "Avenue", "Chicago", "IL", "60643", "19", "Medical Services", "41.690214082", "-87.681251795", [ null, "41.69021408154776", "-87.68125179470638", null, false ] ]
+, [ 18, "2EE775D9-58A8-441E-B5D8-CA04328CAD64", 18, 1456413152, "390945", 1456413152, "390945", null, "2015-02-23T00:00:00", "CNI", "112XX", "S", "Saint Lawrence", "Avenue", "Chicago", "IL", "60628", "9", "Food/Beverage", "41.689529257", "-87.608493489", [ null, "41.68952925704794", "-87.60849348891128", null, false ] ]
+, [ 19, "F606FE09-69B9-4BFE-818A-2FC87DEBD747", 19, 1456413152, "390945", 1456413152, "390945", null, "2013-02-28T00:00:00", "Accion", "113XX", "S.", "Bell", "Avenue", "Chicago", "IL", "60643", "19", "Professional/Off Svc", "41.686896909", "-87.676999722", [ null, "41.68689690902393", "-87.67699972151529", null, false ] ]
+, [ 20, "2B2A8D8D-FA0A-4FC9-8CAA-08AA22EC6495", 20, 1456413152, "390945", 1456413152, "390945", null, "2015-04-07T00:00:00", "WBDC", "011XX", "S", "State", "Street", "Chicago", "IL", "60605", "2", "Other Services", "41.867936373", "-87.627580413", [ null, "41.86793637312042", "-87.6275804131728", null, false ] ]
+, [ 21, "A155CB1B-95FA-4C10-8144-A064F06A4BCF", 21, 1456413152, "390945", 1456413152, "390945", null, "2013-10-07T00:00:00", "WBDC", "011XX", "S", "State", "Street", "Chicago", "IL", "60605", "2", "Other Services", "41.867936373", "-87.627580413", [ null, "41.86793637312042", "-87.6275804131728", null, false ] ]
+, [ 22, "38D6978E-B258-42FD-9F1C-199BC7E24251", 22, 1456413152, "390945", 1456413152, "390945", null, "2013-04-26T00:00:00", "Accion", "011XX", "W", "111th", "Street", "Chicago", "IL", "60643", "34", "Food/Beverage", "41.692353493", "-87.651688246", [ null, "41.69235349273843", "-87.65168824629325", null, false ] ]
+, [ 23, "363A25D0-50C8-4027-8E1C-C55F09A378BC", 23, 1456413152, "390945", 1456413152, "390945", null, "2013-05-06T00:00:00", "Accion", "011XX", "W", "Chicago", "Avenue", "Chicago", "IL", "60642", "27", "Food/Beverage", "41.896342858", "-87.657211671", [ null, "41.896342857527344", "-87.6572116706118", null, false ] ]
+, [ 24, "5BAABE75-5812-4B2E-8491-1F4F69B4EA35", 24, 1456413152, "390945", 1456413152, "390945", null, "2014-04-29T00:00:00", "Accion", "011XX", "W", "Thorndale", "Avenue", "Chicago", "IL", "60660", "48", "Professional/Off Svc", "41.99011704", "-87.66017523", [ null, "41.99011703980512", "-87.66017522979071", null, false ] ]
+, [ 25, "6E8D53D2-8B2F-4020-BFF9-622939D6A1A2", 25, 1456413152, "390945", 1456413152, "390945", null, "2013-09-12T00:00:00", "CNI", "117XX", "S", "Elizabeth", "Street", "Chicago", "IL", "60628", "34", "Construction/Repair", "41.67980097", "-87.653079115", [ null, "41.67980097024272", "-87.6530791153102", null, false ] ]
+, [ 26, "1AF000E5-6682-4AD6-95CA-4ED384F5DDFD", 26, 1456413152, "390945", 1456413152, "390945", null, "2013-11-19T00:00:00", "Accion", "012XX", "S", "Michigan", "Avenue", "Chicago", "IL", "60605", "3", "Food/Beverage", "41.866073587", "-87.624267673", [ null, "41.86607358683167", "-87.62426767322484", null, false ] ]
+, [ 27, "CD4B0423-D1AB-405A-9A3F-CE4883FDA352", 27, 1456413152, "390945", 1456413152, "390945", null, "2014-06-26T00:00:00", "Accion", "012XX", "W", "Lake", "Street", "Chicago", "IL", "60607", "27", "Entertainment", "41.885583712", "-87.658758596", [ null, "41.88558371201573", "-87.65875859598854", null, false ] ]
+, [ 28, "11C860E1-9B3F-4AF2-BC69-0A5035596A69", 28, 1456413152, "390945", 1456413152, "390945", null, "2012-12-20T00:00:00", "Accion", "013XX", "N", "Paulina", "Street", "Chicago", "IL", "60622", "1", "Arts/Crafts Production", "41.906544266", "-87.670164899", [ null, "41.906544265521426", "-87.67016489903163", null, false ] ]
+, [ 29, "85AB9629-BE0F-44A6-B4CF-0CE07975A117", 29, 1456413152, "390945", 1456413152, "390945", null, "2015-03-30T00:00:00", "Accion", "013XX", "W", "Wrightwood", "Avenue", "Chicago", "IL", "60614", "32", "Retail Sales ", "41.928964527", "-87.663049927", [ null, "41.92896452679012", "-87.66304992664521", null, false ] ]
+, [ 30, "9A496758-BFAF-4D38-8CD0-A5664BD76E1F", 30, 1456413152, "390945", 1456413152, "390945", null, "2015-03-16T00:00:00", "Accion", "135XX", "S", "Brainard", "Avenue", "Chicago", "IL", "60633", "10", "Food/Beverage", "41.648211288", "-87.545772832", [ null, "41.64821128835381", "-87.54577283207223", null, false ] ]
+, [ 31, "3A890362-EA87-414D-89C8-9A344C31733F", 31, 1456413152, "390945", 1456413152, "390945", null, "2013-06-10T00:00:00", "WBDC", "014XX", "N", "Ashland", "Avenue", "Chicago", "IL", "60622", "1", "Professional/Off Svc", "41.908377716", "-87.667773189", [ null, "41.908377715963155", "-87.66777318917771", null, false ] ]
+, [ 32, "F69780BC-A739-4DA6-8E4A-C81E61AB289A", 32, 1456413152, "390945", 1456413152, "390945", null, "2015-05-07T00:00:00", "WBDC", "014XX", "N", "Ashland", "Avenue", "Chicago", "IL", "60622", "1", "Professional/Off Svc", "41.908377716", "-87.667773189", [ null, "41.908377715963155", "-87.66777318917771", null, false ] ]
+, [ 33, "33442AEF-0F73-4626-A601-69B076F0AEDB", 33, 1456413152, "390945", 1456413152, "390945", null, "2015-02-12T00:00:00", "Accion", "014XX", "N", "Milwaukee", "Avenue", "Chicago", "IL", "60622", "1", "Retail sales", "41.908161631", "-87.67422876", [ null, "41.90816163123876", "-87.67422876043297", null, false ] ]
+, [ 34, "F31EB3B1-E1F3-4981-A936-1749596D074E", 34, 1456413152, "390945", 1456413152, "390945", null, "2013-03-18T00:00:00", "Accion", "014XX", "W", "63rd", "Street", "Chicago", "IL", "60636", "16", "Beauty/Salon Services", "41.779623958", "-87.661390419", [ null, "41.77962395791078", "-87.66139041859755", null, false ] ]
+, [ 35, "1B6206DE-6D2B-4AF3-8B5F-D9DA85F21A25", 35, 1456413152, "390945", 1456413152, "390945", null, "2014-12-02T00:00:00", "Accion", "148XX", " ", "Evans", "Avenue", "Dolton", "IL", "60620", null, "Construction/Repair", null, null, [ null, null, null, null, null ] ]
+, [ 36, "93B14E24-3956-42A8-B778-C03F5BBBCD30", 36, 1456413152, "390945", 1456413152, "390945", null, "2014-11-18T00:00:00", "CNI", "001XX", "E", "83rd", "Street", "Chicago", "IL", "60619", "6", "Service", "41.743840448", "-87.619653944", [ null, "41.74384044753273", "-87.6196539436392", null, false ] ]
+, [ 37, "021BF3A6-97B4-4307-A7BF-3158941F2B6A", 37, 1456413152, "390945", 1456413152, "390945", null, "2016-01-18T00:00:00", "Accion", "001XX", "N", "Clark", "St", "Chicago", "IL", "60601", "42", "Other Services", "41.884535737", "-87.631084951", [ null, "41.884535737475375", "-87.6310849514846", null, false ] ]
+, [ 38, "22B9045B-5F7F-44DE-BC51-820C97E8CD28", 38, 1456413152, "390945", 1456413152, "390945", null, "2015-04-16T00:00:00", "Accion", "001XX", "S", "Hamlin", "Boulevard", "Chicago", "IL", "60624", "28", "Other Services", "41.878284228", "-87.720804134", [ null, "41.87828422790768", "-87.72080413434796", null, false ] ]
+, [ 39, "4CDEE7D7-F77B-443E-977B-DBFA25CE10F9", 39, 1456413152, "390945", 1456413152, "390945", null, "2015-10-09T00:00:00", "CNI", "015XX", "E", "53rd ", "Street", "Chicago", "IL", "60615", "5", "Retail Sales - Other", "41.799674501", "-87.587171084", [ null, "41.79967450080776", "-87.58717108366014", null, false ] ]
+, [ 40, "66D49CE9-8357-423E-8FB1-084AD0ACA888", 40, 1456413152, "390945", 1456413152, "390945", null, "2012-12-10T00:00:00", "Accion", "015XX", "N", "Damen", "Avenue", "Chicago", "IL", "60622", "1", "Other Services", "41.909679359", "-87.677590211", [ null, "41.909679359144214", "-87.67759021127266", null, false ] ]
+, [ 41, "3CAD57C4-F211-42C1-BDED-9FEAD3E166E2", 41, 1456413152, "390945", 1456413152, "390945", null, "2016-01-28T00:00:00", "Accion", "015XX", "S", "Western", "Avenue", "Chicago", "IL", "60603", "28", "Arts/Crafts Production", "41.859679009", "-87.685989222", [ null, "41.85967900853175", "-87.68598922187576", null, false ] ]
+, [ 42, "C01CDEF2-F017-41EF-8C39-7EA4BAE61881", 42, 1456413152, "390945", 1456413152, "390945", null, "2013-12-11T00:00:00", "CNI", "015XX", "S", "Western", "Avenue", "Chicago", "IL", "60608", "28", "IT/Manufacturing", "41.859679009", "-87.685989222", [ null, "41.85967900853175", "-87.68598922187576", null, false ] ]
+, [ 43, "3541A954-4C9E-4566-9F83-267D193BEEF1", 43, 1456413152, "390945", 1456413152, "390945", null, "2013-05-29T00:00:00", "Accion", "015XX", "W", "Victoria", "Street", "Chicago", "IL", "60660", "48", "Wholesale", "41.987249381", "-87.669538843", [ null, "41.9872493810595", "-87.66953884329361", null, false ] ]
+, [ 44, "3FC5CA73-F419-4989-930F-840782396471", 44, 1456413152, "390945", 1456413152, "390945", null, "2013-04-15T00:00:00", "CNI", "016XX", "E", "87th", "Street", "Chicago", "IL", "60619", "8", "Professional/Off Svc", "41.737058488", "-87.583180907", [ null, "41.73705848796674", "-87.58318090725591", null, false ] ]
+, [ 45, "DC50CE0C-5447-491F-BA6B-00F17A923009", 45, 1456413152, "390945", 1456413152, "390945", null, "2015-03-19T00:00:00", "Accion", "016XX", "N", "Tripp", "Avenue", "Chicago", "IL", "60639", "26", "Transportation", "41.911306184", "-87.732633806", [ null, "41.91130618353327", "-87.73263380556598", null, false ] ]
+, [ 46, "45476E6C-A2B1-474B-9559-9164A3BD7732", 46, 1456413152, "390945", 1456413152, "390945", null, "2015-10-06T00:00:00", "Accion", "016XX", "W", "18th", "Street", "Chicago", "IL", "60608", "25", "Food/Beverage", "41.857871405", "-87.668270534", [ null, "41.8578714053189", "-87.66827053413847", null, false ] ]
+, [ 47, "6AEB66C8-148A-44DE-811E-5942A469E029", 47, 1456413152, "390945", 1456413152, "390945", null, "2013-02-27T00:00:00", "Accion", "016XX", "W", "18th", "Street", "Chicago", "IL", "60608", "25", "Food/Beverage", "41.857871405", "-87.668270534", [ null, "41.8578714053189", "-87.66827053413847", null, false ] ]
+, [ 48, "176E8C88-B414-43A3-9D74-6B180FE8050C", 48, 1456413152, "390945", 1456413152, "390945", null, "2013-11-14T00:00:00", "Accion", "016XX", "W", "21st ", "Street", "Chicago", "IL", "60608", "25", "Retail Stores", "41.854222612", "-87.668174117", [ null, "41.85422261203252", "-87.66817411714905", null, false ] ]
+, [ 49, "73037CC3-08DB-48F5-8710-33A90842F3FA", 49, 1456413152, "390945", 1456413152, "390945", null, "2014-06-30T00:00:00", "Accion", "016XX", "W", "21st ", "Street", "Chicago", "IL", "60608", "25", "Retail Stores", "41.854222612", "-87.668174117", [ null, "41.85422261203252", "-87.66817411714905", null, false ] ]
+, [ 50, "164D21C9-8604-441A-B65B-46B72AB7809E", 50, 1456413152, "390945", 1456413152, "390945", null, "2015-07-17T00:00:00", "Accion", "016XX", "W", "21st ", "Street", "Chicago", "IL", "60608", "25", "Fashion, jewelry, art and sewing/ jewelry classes", "41.854222612", "-87.668174117", [ null, "41.85422261203252", "-87.66817411714905", null, false ] ]
+, [ 51, "725CA04E-9EF2-49EC-8C19-BDD6D0F9CF2F", 51, 1456413152, "390945", 1456413152, "390945", null, "2012-01-10T00:00:00", "Accion", "016XX", "W", "21st ", "Street", "Chicago", "IL", "60608", "25", "Retail Stores", "41.854222612", "-87.668174117", [ null, "41.85422261203252", "-87.66817411714905", null, false ] ]
+, [ 52, "AAC9DB5C-348F-4500-A526-21589E333D38", 52, 1456413152, "390945", 1456413152, "390945", null, "2012-12-04T00:00:00", "CNI", "016XX", "W", "87th", "Street", "Chicago", "IL", "60620", "21", "Retail Sales - Other", "41.735873186", "-87.665125327", [ null, "41.735873186113324", "-87.66512532703082", null, false ] ]
+, [ 53, "36FD4396-03F5-4DD4-9BA4-F5BD9837EF60", 53, 1456413152, "390945", 1456413152, "390945", null, "2012-11-10T00:00:00", "Accion", "017XX", "E", "71st", "Street", "Chicago", "IL", "60649", "7", "Professional/Off Svc", "41.766297058", "-87.581683507", [ null, "41.76629705836155", "-87.58168350745805", null, false ] ]
+, [ 54, "6B14EB57-C5E5-437B-9AF9-9B629236F1C0", 54, 1456413152, "390945", 1456413152, "390945", null, "2015-07-15T00:00:00", "CNI", "017XX", "E", "92nd", "Street", "Chicago", "IL", "60617", "7", "Other Services", "41.727980124", "-87.580634236", [ null, "41.72798012441059", "-87.58063423571748", null, false ] ]
+, [ 55, "4F193B03-2C68-471E-8C33-B7FAAAFA8E7D", 55, 1456413152, "390945", 1456413152, "390945", null, "2012-11-10T00:00:00", "Accion", "017XX", "N", "Damen", "Avenue", "Chicago", "IL", "60647", "32", "Clothing/Material Production", "41.913788046", "-87.677684427", [ null, "41.91378804618231", "-87.67768442670713", null, false ] ]
+, [ 56, "A2850825-33AC-49BD-9424-2FF34FF9BA3E", 56, 1456413152, "390945", 1456413152, "390945", null, "2013-08-30T00:00:00", "Accion", "017XX", "N", "Mason", "Street", "Chicago", "IL", "60639", "29", "Food/Beverage", "41.912597808", "-87.774226348", [ null, "41.91259780828195", "-87.77422634848645", null, false ] ]
+, [ 57, "4DF66199-C053-44BE-BA58-62B3CEF559FE", 57, 1456413152, "390945", 1456413152, "390945", null, "2013-04-30T00:00:00", "Accion", "017XX", "N", "Western", "Avenue", "Chicago", "IL", "60645", "1", "Day Care", "41.913605732", "-87.687454197", [ null, "41.91360573157923", "-87.68745419657513", null, false ] ]
+, [ 58, "DE3DD61F-DCE0-4A33-AFBA-F81C96C2649E", 58, 1456413152, "390945", 1456413152, "390945", null, "2015-12-11T00:00:00", "CNI", "017XX", "W", "104th", "Place", "Chicago", "IL", "60643", "19", "Manufacturing", "41.70401463", "-87.66669565", [ null, "41.70401462980263", "-87.66669565005344", null, false ] ]
+, [ 59, "34AC73DE-340C-447E-9DE6-CE218F4AAEFA", 59, 1456413152, "390945", 1456413152, "390945", null, "2013-03-29T00:00:00", "Accion", "017XX", "W", "79th", "Street", "Chicago", "IL", "60620", "17", "Food/Beverage", "41.750406805", "-87.667897611", [ null, "41.75040680531504", "-87.66789761050066", null, false ] ]
+, [ 60, "034D5954-A283-4C40-BF0C-0B3BCC11C087", 60, 1456413152, "390945", 1456413152, "390945", null, "2013-06-14T00:00:00", "Accion", "017XX", "W", "Chicago", "Avenue", "Chicago", "IL", "60622", "1", "Other Services", "41.896110115", "-87.671694946", [ null, "41.896110114694075", "-87.67169494622644", null, false ] ]
+, [ 61, "D26A8A4A-8C03-4368-B575-B492D2ED0F7B", 61, 1456413152, "390945", 1456413152, "390945", null, "2015-10-06T00:00:00", "Accion", "017XX", "W", "Chicago", "Avenue", "Chicago", "IL", "60622", "1", "Entertainment", "41.896110115", "-87.671694946", [ null, "41.896110114694075", "-87.67169494622644", null, false ] ]
+, [ 62, "595C6A2E-767B-4110-8773-F6CAF2D58CAB", 62, 1456413152, "390945", 1456413152, "390945", null, "2013-11-06T00:00:00", "WBDC", "017XX", "W", "Lawrence", "Avenue", "Chicago", "IL", "60660", "47", null, "41.968945848", "-87.67299374", [ null, "41.96894584801377", "-87.67299373967185", null, false ] ]
+, [ 63, "1CB036A6-87E4-494C-A6D6-DA3E12D493C3", 63, 1456413152, "390945", 1456413152, "390945", null, "2015-04-07T00:00:00", "WBDC", "017XX", "W", "Lawrence", "Avenue", "Chicago", "IL", "60660", "47", null, "41.968945848", "-87.67299374", [ null, "41.96894584801377", "-87.67299373967185", null, false ] ]
+, [ 64, "7B5CC97D-541B-423E-8D4F-E94AD26F2A94", 64, 1456413152, "390945", 1456413152, "390945", null, "2014-06-30T00:00:00", "Accion", "017XX", "W", "North", "Avenue", "Chicago", "IL", "60622", "32", "Retail Stores", "41.910676883", "-87.672126285", [ null, "41.91067688299753", "-87.67212628468288", null, false ] ]
+, [ 65, "E06A7ACE-94C0-4223-86E2-FA97166F9F06", 65, 1456413152, "390945", 1456413152, "390945", null, "2014-07-29T00:00:00", "Accion", "018XX", "E", "87th", "Street", "Chicago", "IL", "60619", "8", "Beauty/Salon Services", "41.737125223", "-87.578601773", [ null, "41.73712522273615", "-87.57860177285214", null, false ] ]
+, [ 66, "10C2A7CC-7530-40F2-9446-181B9E572C0C", 66, 1456413152, "390945", 1456413152, "390945", null, "2014-12-04T00:00:00", "Accion", "018XX", "N", "Monitor", "Street", "Chicago", "IL", "60639", "29", "Construction/Repair", "41.914456401", "-87.7717878", [ null, "41.914456401009424", "-87.77178779952047", null, false ] ]
+, [ 67, "759E57C9-3A46-4922-A8CD-704B4905EDAA", 67, 1456413152, "390945", 1456413152, "390945", null, "2012-11-10T00:00:00", "Accion", "018XX", "S", "Clark", "Street", "Chicago", "IL", "60616", "43", "Clothing/Material Production", "41.85663565", "-87.630345428", [ null, "41.85663565046262", "-87.63034542814528", null, false ] ]
+, [ 68, "0D8E98EB-C36F-4F9E-B05B-081F046B7859", 68, 1456413152, "390945", 1456413152, "390945", null, "2012-11-20T00:00:00", "Accion", "018XX", "W", "63rd", "Street", "Chicago", "IL", "60636", "15", "Beauty/Salon Services", "41.779466199", "-87.671101769", [ null, "41.779466199263936", "-87.6711017685739", null, false ] ]
+, [ 69, "1777E7D0-752C-402F-AD23-4568454E2CD7", 69, 1456413152, "390945", 1456413152, "390945", null, "2014-12-05T00:00:00", "Accion", "019XX", "N", "Austin", "Avenue", "Chicago", "IL", "60639", "29", "Food/Beverage", "41.91622789", "-87.775605613", [ null, "41.91622788969988", "-87.77560561329851", null, false ] ]
+, [ 70, "C4DA9841-B6BF-4DCD-B06A-08F4BA3BE8F3", 70, 1456413152, "390945", 1456413152, "390945", null, "2015-02-23T00:00:00", "Accion", "019XX", "W", "103rd", "Street", "Chicago", "IL", "60643", "19", "Other Services", "41.706669083", "-87.671082793", [ null, "41.70666908325991", "-87.6710827929612", null, false ] ]
+, [ 71, "ADCEDB9E-2D17-4FA7-B3C0-09562B2E8813", 71, 1456413152, "390945", 1456413152, "390945", null, "2015-10-23T00:00:00", "CNI", "019XX", "W", "87th", "Street", "Chicago", "IL", "60620", "20", "Professional/Off Svc", "41.735766874", "-87.672396457", [ null, "41.73576687369632", "-87.67239645656947", null, false ] ]
+, [ 72, "AA0EBFCB-4D6F-4C86-9122-FEFCEAF2E290", 72, 1456413152, "390945", 1456413152, "390945", null, "2013-09-18T00:00:00", "WBDC", "019XX", "W", "87th", "Street", "Chicago", "IL", "60620", "18", "Professional/Off Svc", "41.735766874", "-87.672396457", [ null, "41.73576687369632", "-87.67239645656947", null, false ] ]
+, [ 73, "BCE753A2-5CE8-4E15-AC32-FEDD7D2C977D", 73, 1456413152, "390945", 1456413152, "390945", null, "2013-04-26T00:00:00", "Accion", "020XX", "N", "Seminary", "Avenue", "Chicago", "IL", "60614", "43", "Wholesale", "41.91956724", "-87.655989859", [ null, "41.91956724033429", "-87.65598985921318", null, false ] ]
+, [ 74, "0263FB15-CCAF-4B50-ACA0-50CB347743D4", 74, 1456413152, "390945", 1456413152, "390945", null, "2013-10-07T00:00:00", "WBDC", "020XX", "W", "Belmont", "Avenue", "Chicago", "IL", "60618", "32", "Retail Sales - Other", "41.939657595", "-87.680360379", [ null, "41.9396575946445", "-87.68036037889661", null, false ] ]
+, [ 75, "B27ABD2B-A7AD-4CE1-9E0E-57A1DC0D8455", 75, 1456413152, "390945", 1456413152, "390945", null, "2013-04-19T00:00:00", "WBDC", "020XX", "W", "Greenleaf", "Street", "Chicago", "IL", "60645", "49", null, "42.010263349", "-87.682413424", [ null, "42.01026334867173", "-87.68241342364222", null, false ] ]
+, [ 76, "755B5410-30E0-45C7-8CC2-DBD5B7690C84", 76, 1456413152, "390945", 1456413152, "390945", null, "2015-09-29T00:00:00", "Accion", "021XX", "N", "Milwaukee", "Avenue", "Chicago", "IL", "60647", "1", "Retail Stores", "41.920230129", "-87.693217337", [ null, "41.92023012925667", "-87.69321733699671", null, false ] ]
+, [ 77, "CCDC3456-2D4B-4EBE-AF52-ADED45948E18", 77, 1456413152, "390945", 1456413152, "390945", null, "2015-04-24T00:00:00", "CNI", "021XX", "S", "Canalport", "Street", "Chicago", "IL", "60608", "25", "Other Services - Cosmetology", "41.853301464", "-87.649929695", [ null, "41.8533014640748", "-87.649929695282", null, false ] ]
+, [ 78, "0144027C-F114-45C0-9973-95ED8DD580EB", 78, 1456413152, "390945", 1456413152, "390945", null, "2015-01-07T00:00:00", "CNI", "021XX", "S", "Canalport", "Street", "Chicago", "IL", "60608", "6", "Construction", "41.853301464", "-87.649929695", [ null, "41.8533014640748", "-87.649929695282", null, false ] ]
+, [ 79, "5F3AD530-D28F-430F-B37A-FEE24709704A", 79, 1456413152, "390945", 1456413152, "390945", null, "2013-05-25T00:00:00", "CNI", "021XX", "W", "Division", "Street", "Chicago", "IL", "60647", "32", "Retail Sales - Other", "41.903222949", "-87.681718412", [ null, "41.903222948948944", "-87.68171841193023", null, false ] ]
+, [ 80, "2DB2453C-C6C5-4A38-BF78-AC4C226D6E6E", 80, 1456413152, "390945", 1456413152, "390945", null, "2013-03-29T00:00:00", "Accion", "022XX", "N", "Menard", "Street", "Chicago", "IL", "60639", "36", "Food/Beverage", "41.921776007", "-87.770924082", [ null, "41.921776006693314", "-87.77092408208605", null, false ] ]
+, [ 81, "BDCBEF4F-F01C-4AC2-B21E-30FC90606D74", 81, 1456413152, "390945", 1456413152, "390945", null, "2014-04-25T00:00:00", "CNI", "022XX", "S", "Michigan", "Avenue", "Chicago", "IL", "60616", "2", "Professional/Off Svc", "41.851416506", "-87.623912577", [ null, "41.85141650556155", "-87.62391257713634", null, false ] ]
+, [ 82, "E05D7772-617D-4BC3-8720-37B3DBF8843A", 82, 1456413152, "390945", 1456413152, "390945", null, "2015-12-11T00:00:00", "WBDC", "022XX", "S", "Throop", "Street", "Chicago", "IL", "60608", "25", "Retail Sales - Other", "41.85096156", "-87.658810143", [ null, "41.8509615600569", "-87.65881014299168", null, false ] ]
+, [ 83, "CF604599-2FB7-4C68-9435-19397E69E171", 83, 1456413152, "390945", 1456413152, "390945", null, "2013-04-17T00:00:00", "Accion", "022XX", "S", "Troop", "Street", "Chicago", "IL", "60608", "25", "Other Services", "41.85096156", "-87.658810143", [ null, "41.8509615600569", "-87.65881014299168", null, false ] ]
+, [ 84, "E8791638-5B50-4906-B8D4-2377C5096C63", 84, 1456413152, "390945", 1456413152, "390945", null, "2013-07-16T00:00:00", "Accion", "023XX", "N", "Milwaukee", "Avenue", "Chicago", "IL", "60647", "1", "Food/Beverage", "41.92383417", "-87.699100155", [ null, "41.92383417009724", "-87.69910015533893", null, false ] ]
+, [ 85, "F2ED714B-AEC8-49FC-9113-6336F891CB92", 85, 1456413152, "390945", 1456413152, "390945", null, "2014-07-18T00:00:00", "Accion", "024XX", "N", "Western", "Avenue", "Chicago", "IL", "60647", "1", "Retail Stores", "41.926433443", "-87.687846644", [ null, "41.92643344346806", "-87.68784664427186", null, false ] ]
+, [ 86, "8225F7F8-0946-454A-9DAD-609ACBDEEE69", 86, 1456413152, "390945", 1456413152, "390945", null, "2013-05-13T00:00:00", "Accion", "002XX", "N", "Pulaski", "Avenue", "Chicago", "IL", "60624", "28", "Food/Beverage", "41.884873046", "-87.725935624", [ null, "41.88487304630816", "-87.72593562397961", null, false ] ]
+, [ 87, "E44EA044-8D30-4DAB-B546-65EECB74C125", 87, 1456413152, "390945", 1456413152, "390945", null, "2013-04-05T00:00:00", "Accion", "002XX", "S", "Wacker", "Drive", "Chicago", "IL", "60606", "42", "Other Services", "41.878138181", "-87.637064995", [ null, "41.87813818115573", "-87.63706499520218", null, false ] ]
+, [ 88, "3BD5DDD1-CD29-4F8F-BBDC-EC12CE7B4246", 88, 1456413152, "390945", 1456413152, "390945", null, "2012-11-10T00:00:00", "Accion", "002XX", "W", "Eugenie", "Street", "Chicago", "IL", "60614", "2", "Food/Beverage", "41.912962356", "-87.636673056", [ null, "41.91296235590175", "-87.63667305628802", null, false ] ]
+, [ 89, "D517F1E3-C9BB-4EBD-8C0C-C9FAAAA4B49A", 89, 1456413152, "390945", 1456413152, "390945", null, "2013-04-29T00:00:00", "Accion", "002XX", "W", "St. Paul", "Street", "Chicago", "IL", "60614", "43", "Professional/Off Svc", "41.913707771", "-87.636695887", [ null, "41.913707770641054", "-87.63669588681894", null, false ] ]
+, [ 90, "D2473BA6-41BF-448C-898D-8DC16DC1094B", 90, 1456413152, "390945", 1456413152, "390945", null, "2015-03-17T00:00:00", "Accion", "025XX", "W", "16th", "Street", "Chicago", "IL", "60608", "28", "Entertainment", "41.859403662", "-87.690337461", [ null, "41.859403662250706", "-87.69033746056911", null, false ] ]
+, [ 91, "65AD5A2F-2C15-471E-8EC4-A43B87A3DD27", 91, 1456413152, "390945", 1456413152, "390945", null, "2014-11-13T00:00:00", "Accion", "025XX", "W", "Lawrence", "Avenue", "Chicago", "IL", "60625", "40", "Food/Beverage", "41.968685531", "-87.693369954", [ null, "41.968685530685526", "-87.69336995375313", null, false ] ]
+, [ 92, "7D80404B-6B04-428E-999B-CB040FD88A4F", 92, 1456413152, "390945", 1456413152, "390945", null, "2013-03-21T00:00:00", "Accion", "026XX", "W", "Toughy", "Avenue", "Chicago", "IL", "60645", "50", "Medical Services", "42.012241707", "-87.697008884", [ null, "42.01224170721509", "-87.69700888423647", null, false ] ]
+, [ 93, "1664E8B9-D3F9-47E4-84EC-CD9691E6B5CC", 93, 1456413152, "390945", 1456413152, "390945", null, "2015-05-01T00:00:00", "WBDC", "027XX", "W", "Potomac", "Avenue", "Chicago", "IL", "60622", "26", "Retail Sales - Other", "41.904865295", "-87.696497802", [ null, "41.90486529450432", "-87.69649780184278", null, false ] ]
+, [ 94, "BE968A56-43CA-465A-A031-4071B65D826E", 94, 1456413152, "390945", 1456413152, "390945", null, "2013-08-16T00:00:00", "CNI", "028XX", "E", "79th", "Street", "Chicago", "IL", "60649", "7", "Other Services", "41.751993753", "-87.554961229", [ null, "41.75199375346897", "-87.554961229127", null, false ] ]
+, [ 95, "51E61F9D-CE3A-4469-87E5-7D8F358607B6", 95, 1456413152, "390945", 1456413152, "390945", null, "2015-07-15T00:00:00", "CNI", "028XX", "E", "79th", "Street", "Chicago", "IL", "60649", "27", "Other Services", "41.751993753", "-87.554961229", [ null, "41.75199375346897", "-87.554961229127", null, false ] ]
+, [ 96, "0AB15E62-3B0D-4BA7-AB30-D6FBDEC1C71F", 96, 1456413152, "390945", 1456413152, "390945", null, "2015-02-02T00:00:00", "Accion", "029XX", "N", "Lincoln", "Avenue", "Chicago", "IL", "60657", "32", "Retail Stores", "41.935398499", "-87.662897921", [ null, "41.93539849864407", "-87.66289792126777", null, false ] ]
+, [ 97, "9740BF24-A6B8-4819-928E-298FCE5180B9", 97, 1456413152, "390945", 1456413152, "390945", null, "2013-10-31T00:00:00", "Accion", "029XX", "W", "Pershing", "Rd.", "Chicago", "IL", "60632", "12", "Food/Beverage", "41.822807198", "-87.69911434", [ null, "41.82280719802566", "-87.69911433962355", null, false ] ]
+, [ 98, "3AAE51D6-6A48-4660-A2F0-881FFE803E34", 98, 1456413152, "390945", 1456413152, "390945", null, "2016-02-16T00:00:00", "Accion", "029XX", "W", "Pershing", "Rd.", "Chicago", "IL", "60632", "12", "Food/Beverage", "41.822807198", "-87.69911434", [ null, "41.82280719802566", "-87.69911433962355", null, false ] ]
+, [ 99, "AC90E739-3031-434D-8B55-964F14ADDD6E", 99, 1456413152, "390945", 1456413152, "390945", null, "2013-04-24T00:00:00", "Accion", "030XX", "N", "Central", "Park", "Chicago", "IL", "60618", "35", "Other Services", "41.936721765", "-87.717464528", [ null, "41.936721764621424", "-87.71746452842577", null, false ] ]
+, [ 100, "C93ADD56-C4F8-40C5-9527-571DAD91C31E", 100, 1456413152, "390945", 1456413152, "390945", null, "2013-08-30T00:00:00", "Accion", "030XX", "N", "Lincoln", "Avenue", "Chicago", "IL", "60641", "47", "Retail Sales - Other", "41.937149264", "-87.665352278", [ null, "41.93714926386188", "-87.6653522782535", null, false ] ]
+, [ 101, "4973FFC0-B678-4F98-8D6F-06F95C29491F", 101, 1456413152, "390945", 1456413152, "390945", null, "2012-12-10T00:00:00", "Accion", "030XX", "N", "Lincoln", "Avenue", "Chicago", "IL", "60657", "32", "Retail Stores", "41.937149264", "-87.665352278", [ null, "41.93714926386188", "-87.6653522782535", null, false ] ]
+, [ 102, "8B3F3EDF-2FAC-45D7-A8CA-649C7601B1E6", 102, 1456413152, "390945", 1456413152, "390945", null, "2016-02-02T00:00:00", "Accion", "031XX", "N", "Broadway", "Avenue", "Chicago", "IL", "60657", "44", "Food/Beverage", "41.939120097", "-87.644515275", [ null, "41.93912009672058", "-87.64451527453552", null, false ] ]
+, [ 103, "9D12E584-EB29-439B-9C4E-D7923E8671ED", 103, 1456413152, "390945", 1456413152, "390945", null, "2014-04-14T00:00:00", "Accion", "032XX", "W", "71st St.", "Place", "Chicago", "IL", "60629", "17", "Day Care", null, null, [ null, null, null, null, null ] ]
+, [ 104, "D7D72B72-2B4C-4AC8-8B85-BAC499ED0F69", 104, 1456413152, "390945", 1456413152, "390945", null, "2012-10-20T00:00:00", "Accion", "032XX", "W", "Douglas", "Boulevard", "Chicago", "IL", "60623", "24", "Professional/Off Svc", "41.863049108", "-87.707581493", [ null, "41.86304910767722", "-87.70758149315465", null, false ] ]
+, [ 105, "FA63C839-15A9-40AA-8C7A-A73280D55411", 105, 1456413152, "390945", 1456413152, "390945", null, "2013-05-31T00:00:00", "Accion", "032XX", "W.", "84th", "Street", "Chicago", "IL", "60652", "18", "Other Services", "41.740745482", "-87.704159892", [ null, "41.74074548155806", "-87.70415989203823", null, false ] ]
+, [ 106, "126A2A24-AA72-4727-AC7F-F67C97B9C5B1", 106, 1456413152, "390945", 1456413152, "390945", null, "2013-08-25T00:00:00", "Accion", "033XX", "N", "Oleander", "St.", "Chicago", "IL", "60634", "29", "Construction/Repair", "41.94107163", "-87.815556357", [ null, "41.94107163033972", "-87.81555635660924", null, false ] ]
+, [ 107, "883A0366-BE66-4747-83A0-D06F0396497A", 107, 1456413152, "390945", 1456413152, "390945", null, "2013-08-21T00:00:00", "Accion", "033XX", "N", "Paulina", "Street", "Chicago", "IL", "60626", "47", "Professional/Off Svc", "41.942987046", "-87.671331836", [ null, "41.94298704612548", "-87.67133183587026", null, false ] ]
+, [ 108, "DE3C51CE-02D7-4452-BB29-AB0050A97967", 108, 1456413152, "390945", 1456413152, "390945", null, "2013-03-20T00:00:00", "Accion", "033XX", "W", "59th ", "Street", "Chicago", "IL", "60629", "23", "Beauty/Salon Services", "41.786287906", "-87.707836726", [ null, "41.786287905719405", "-87.70783672630208", null, false ] ]
+, [ 109, "7B65F870-34ED-43A8-B1B7-6CB90F9284DC", 109, 1456413152, "390945", 1456413152, "390945", null, "2015-02-25T00:00:00", "Accion", "033XX", "W", "BRYN MAWR", "Avenue", "CHICAGO", "IL", "60659", "39", "Restaurant - Full Service", "41.98312144", "-87.713368491", [ null, "41.98312144049005", "-87.71336849119527", null, false ] ]
+, [ 110, "97139FD3-A6F1-4346-8148-4038D27D7F8F", 110, 1456413152, "390945", 1456413152, "390945", null, "2013-06-26T00:00:00", "WBDC", "033XX", "W", "Foster", "Avenue", "Chicago", "IL", "60625", "39", "Retail Sales - Other", "41.975806213", "-87.713183389", [ null, "41.975806213497044", "-87.71318338948898", null, false ] ]
+, [ 111, "8654655A-FBE1-43E0-AA52-D18A03165BF3", 111, 1456413152, "390945", 1456413152, "390945", null, "2015-02-23T00:00:00", "Accion", "034XX", "N", "Pulaski", "Avenue", "Chicago", "IL", "60641", "30", "Restaurant - Full Service", "41.944183101", "-87.727478918", [ null, "41.9441831009194", "-87.72747891756883", null, false ] ]
+, [ 112, "B927854C-A766-4F16-BBB7-CB144A27531F", 112, 1456413152, "390945", 1456413152, "390945", null, "2013-07-03T00:00:00", "CNI", "034XX", "W", "76th", "Place", "Chicago", "IL", "60652", "18", "Construction/Repair", "41.754695049", "-87.709448594", [ null, "41.75469504917642", "-87.7094485942623", null, false ] ]
+, [ 113, "F22575B4-FB6A-468F-94F3-6C6B9E21BE11", 113, 1456413152, "390945", 1456413152, "390945", null, "2013-12-16T00:00:00", "Accion", "034XX", "W", "Armitage", "Avenue", "Chicago", "IL", "60647", "26", "Retail Sales - Other", "41.917434655", "-87.713445161", [ null, "41.917434654755205", "-87.71344516107746", null, false ] ]
+, [ 114, "4D2B0033-D249-43A6-91FA-5E2627651155", 114, 1456413152, "390945", 1456413152, "390945", null, "2014-07-24T00:00:00", "Accion", "034XX", "W", "Armitage", "Avenue", "Chicago", "IL", "60647", "26", "Retail Sales - Other", "41.917434655", "-87.713445161", [ null, "41.917434654755205", "-87.71344516107746", null, false ] ]
+, [ 115, "2CD86C3C-E044-480D-90D1-0DF62A3F96C0", 115, 1456413152, "390945", 1456413152, "390945", null, "2014-05-01T00:00:00", "CNI", "003XX", "E", "115th", "Street", "Chicago", "IL", "60628", "9", "Construction/Repair", "41.685533059", "-87.6135524", [ null, "41.685533058710725", "-87.6135524000206", null, false ] ]
+, [ 116, "ED7E4297-F710-4DE5-B6F6-3568EF06428E", 116, 1456413152, "390945", 1456413152, "390945", null, "2015-02-06T00:00:00", "Accion", "003XX", "E", "71st", "Street", "Chicago", "IL", "60619", "6", "Clothing Design/Mfg", "41.765795405", "-87.616487173", [ null, "41.76579540461219", "-87.61648717327338", null, false ] ]
+, [ 117, "5F33AC56-89D6-4219-8A72-8F4BD489D2C4", 117, 1456413152, "390945", 1456413152, "390945", null, "2013-03-15T00:00:00", "CNI", "003XX", "E", "79th", "Street", "Chicago", "IL", "60619", "6", "Retail Sales - Other", "41.75120691", "-87.616146156", [ null, "41.751206909502876", "-87.61614615625861", null, false ] ]
+, [ 118, "85CFE025-A23C-4E77-81C0-E12F2C758C09", 118, 1456413152, "390945", 1456413152, "390945", null, "2014-09-15T00:00:00", "CNI", "003XX", "E", "Ohio", "Street", "Chicago", "IL", "60611", "42", "Real Estate Consultant", "41.892741648", "-87.618288156", [ null, "41.89274164784599", "-87.6182881563146", null, false ] ]
+, [ 119, "14FB1068-9BF6-44CF-A454-010317CBF62E", 119, 1456413152, "390945", 1456413152, "390945", null, "2013-10-31T00:00:00", "WBDC", "003XX", "S", "Michigan", "Avenue", "Chicago", "IL", "60604", "2", "Transportation", "41.877066783", "-87.62443921", [ null, "41.87706678314336", "-87.62443921026329", null, false ] ]
+, [ 120, "283692FC-811A-42CE-A40C-056B51F25E65", 120, 1456413152, "390945", 1456413152, "390945", null, "2013-06-25T00:00:00", "WBDC", "003XX", "W", "18th", "Street", "Chicago", "IL", "60616", "25", "Retail Sales - Other", "41.857814473", "-87.636746844", [ null, "41.857814473347254", "-87.63674684444798", null, false ] ]
+, [ 121, "C6E5DCCE-D899-4E46-B439-602C9F8F5A17", 121, 1456413152, "390945", 1456413152, "390945", null, "2013-07-15T00:00:00", "WBDC", "003XX", "W", "18th", "Street", "Chicago", "IL", "60616", "25", "Construction/Repair", "41.857814473", "-87.636746844", [ null, "41.857814473347254", "-87.63674684444798", null, false ] ]
+, [ 122, "E5E198F4-4687-4350-9495-6C1D0F0B36A8", 122, 1456413152, "390945", 1456413152, "390945", null, "2015-08-07T00:00:00", "WBDC", "003XX", "W", "18th", "Street", "Chicago", "IL", "60616", "25", "Construction/Repair", "41.857814473", "-87.636746844", [ null, "41.857814473347254", "-87.63674684444798", null, false ] ]
+, [ 123, "042E77E1-57E4-43A7-AFCE-1FBC434043F1", 123, 1456413152, "390945", 1456413152, "390945", null, "2015-02-13T00:00:00", "Accion", "035XX", "W", "63rd", "Street", "Chicago", "IL", "60629", "23", "Restaurant - Full Service", "41.77893795", "-87.712384286", [ null, "41.778937949592226", "-87.7123842859852", null, false ] ]
+, [ 124, "B1EBD655-F029-4419-996A-754660BFDC6D", 124, 1456413152, "390945", 1456413152, "390945", null, "2013-11-15T00:00:00", "Accion", "036XX", "N", "Halsted", "Street", "Chicago", "IL", "60613", "46", "Beauty/Salon Services", "41.948799126", "-87.649678275", [ null, "41.948799125611906", "-87.64967827509176", null, false ] ]
+, [ 125, "96D4F998-A595-4F16-B9EB-6AB08E364362", 125, 1456413152, "390945", 1456413152, "390945", null, "2013-03-19T00:00:00", "Accion", "036XX", "N", "Narragansett", "Avenue", "Chicago", "IL", "60634", "36", "Other Services", "41.947201266", "-87.786459059", [ null, "41.94720126576405", "-87.78645905944289", null, false ] ]
+, [ 126, "A7446CC0-921A-40C3-B7C8-6266A09C59F9", 126, 1456413152, "390945", 1456413152, "390945", null, "2012-11-10T00:00:00", "Accion", "036XX", "S", "Canal", "Street", "Chicago", "IL", "60609", "11", "Clothing/Material Production", "41.827515865", "-87.637920743", [ null, "41.827515865497226", "-87.63792074347494", null, false ] ]
+, [ 127, "1249DA97-55DB-4191-A841-16F7A55278F7", 127, 1456413152, "390945", 1456413152, "390945", null, "2015-12-23T00:00:00", "WBDC", "036XX", "S", "Halsted", "Street", "Chicago", "IL", "60609", "11", "Day Care", "41.827682151", "-87.646181967", [ null, "41.82768215078157", "-87.64618196741296", null, false ] ]
+, [ 128, "A1E07C00-6BB9-417C-97CD-2C8C6734AE5E", 128, 1456413152, "390945", 1456413152, "390945", null, "2014-08-26T00:00:00", "Accion", "037XX", "N", "Saint Louis", "Avenue", "Chicago", "IL", "60618", "35", "Retail Stores", "41.949861008", "-87.715400981", [ null, "41.94986100830231", "-87.71540098141125", null, false ] ]
+, [ 129, "184CAD65-A12C-4D6C-874C-2340B2CA9F57", 129, 1456413152, "390945", 1456413152, "390945", null, "2014-11-19T00:00:00", "Accion", "037XX", "W", "Cermak", "Rd.", "CHICAGO", "IL", "60623", "22", "Retail Stores", "41.851722608", "-87.719448564", [ null, "41.85172260792974", "-87.71944856377641", null, false ] ]
+, [ 130, "7F6A27B2-953F-4CE4-BDF9-CE395493FC4C", 130, 1456413152, "390945", 1456413152, "390945", null, "2015-11-25T00:00:00", "Accion", "038XX", "N", "Broadway", "Street", "Chicago", "IL", "60613", "46", "Beauty/Salon Services", "41.952667333", "-87.649798106", [ null, "41.95266733269854", "-87.64979810561019", null, false ] ]
+, [ 131, "14F036CA-80A1-4BB3-9836-5F9BF3E5D5FD", 131, 1456413152, "390945", 1456413152, "390945", null, null, "WBDC", "038XX", "N", "Cicero", "Avenue", "Chicago", "IL", "60641", "38", "Retail Sales - Other", "41.951291257", "-87.74740523", [ null, "41.95129125678023", "-87.74740522995823", null, false ] ]
+, [ 132, "D48A4AD0-18FD-4850-9F6A-12F8815F7ECE", 132, 1456413152, "390945", 1456413152, "390945", null, "2014-08-15T00:00:00", "Accion", "038XX", "N", "Lincoln", "Avenue", "Chicago", "IL", "60613", "47", "Education", "41.951797588", "-87.677279839", [ null, "41.951797587533974", "-87.67727983909802", null, false ] ]
+, [ 133, "8960B96A-CF8B-441D-9C79-9A4AF0936C76", 133, 1456413152, "390945", 1456413152, "390945", null, "2012-04-10T00:00:00", "Accion", "038XX", "N", "Lincoln", "Avenue", "Chicago", "IL", "60613", "47", "Day Care", "41.951797588", "-87.677279839", [ null, "41.951797587533974", "-87.67727983909802", null, false ] ]
+, [ 134, "DE0FC254-D98E-4E11-BF23-38098A752BAC", 134, 1456413152, "390945", 1456413152, "390945", null, "2014-06-30T00:00:00", "Accion", "038XX", "W", "Chicago", "Avenue", "Chicago", "IL", "60651", "37", "Professional/Off Svc", "41.895502619", "-87.723239039", [ null, "41.89550261898345", "-87.72323903868359", null, false ] ]
+, [ 135, "ABA61C20-5496-4E38-9D0D-F9BE199B64AB", 135, 1456413152, "390945", 1456413152, "390945", null, "2013-05-23T00:00:00", "Accion", "038XX", "W", "Chicago", "Avenue", "Chicago", "IL", "60651", "37", "Professional/Off Svc", "41.895502619", "-87.723239039", [ null, "41.89550261898345", "-87.72323903868359", null, false ] ]
+, [ 136, "A2EDADD4-1D1E-4BBC-BF6C-63A17EC5E70C", 136, 1456413152, "390945", 1456413152, "390945", null, "2015-12-16T00:00:00", "Accion", "038XX", "W", "Montrose", "Avenue", "Chicago", "IL", "60618", "35", "Food/Beverage", "41.961091681", "-87.72500737", [ null, "41.96109168061752", "-87.72500736958689", null, false ] ]
+, [ 137, "96B1EE19-D5A4-45BC-A071-C0942AECDDCC", 137, 1456413152, "390945", 1456413152, "390945", null, "2013-03-11T00:00:00", "Accion", "039XX", "N", "Seeley", "Avenue", "Chicago", "IL", "60618", "47", "Arts/Crafts Production", "41.953819581", "-87.680104184", [ null, "41.95381958139907", "-87.6801041836942", null, false ] ]
+, [ 138, "BA97C5A5-C22B-4E5C-B316-AC7ED7BBA77E", 138, 1456413152, "390945", 1456413152, "390945", null, "2013-05-30T00:00:00", "CNI", "039XX", "W", "87th", "Street", "Chicago", "IL", "60652", "18", "Transportation", "41.734977335", "-87.720972482", [ null, "41.73497733454709", "-87.72097248185597", null, false ] ]
+, [ 139, "40A36047-5DD4-44E7-9A1E-FFED041D8387", 139, 1456413152, "390945", 1456413152, "390945", null, "2015-03-12T00:00:00", "Accion", "039XX", "W", "Armitage", "Avenue", "Chicago ", "IL", "60647", "26", "Auto/Vehicle", "41.917280964", "-87.726185515", [ null, "41.91728096383126", "-87.72618551488333", null, false ] ]
+, [ 140, "F41EE790-1663-4574-A110-36421296E21E", 140, 1456413152, "390945", 1456413152, "390945", null, "2013-10-18T00:00:00", "CNI", "039XX", "W", "Lawrence", "Avenue", "Chicago", "IL", "60625", "39", "Professional/Off Svc", "41.968356466", "-87.727656367", [ null, "41.96835646617037", "-87.72765636726649", null, false ] ]
+, [ 141, "26B9BF1F-25D2-4133-A419-29F507FAEF78", 141, 1456413152, "390945", 1456413152, "390945", null, "2014-05-08T00:00:00", "CNI", "039XX", "W", "Lawrence", "Avenue", "Chicago", "IL", "60625", "39", "Construction/Repair", "41.968356466", "-87.727656367", [ null, "41.96835646617037", "-87.72765636726649", null, false ] ]
+, [ 142, "70F6E3AA-59F2-47A2-9EB7-46A8C1AF2F2F", 142, 1456413152, "390945", 1456413152, "390945", null, "2013-04-24T00:00:00", "Accion", "040XX", "N", "Drake", "Avenue", "Chicago", "IL", "60618", "35", "Other Services", "41.955304751", "-87.716779636", [ null, "41.955304751455095", "-87.71677963551495", null, false ] ]
+, [ 143, "59647BD1-8117-4837-9522-E3991470FC1A", 143, 1456413152, "390945", 1456413152, "390945", null, "2014-07-08T00:00:00", "Accion", "040XX", "N", "Drake", "Avenue", "Chicago", "IL", "60618", "35", "Other Services", "41.955304751", "-87.716779636", [ null, "41.955304751455095", "-87.71677963551495", null, false ] ]
+, [ 144, "EFEEF894-E609-4D78-B610-0B5286D7E045", 144, 1456413152, "390945", 1456413152, "390945", null, "2014-09-30T00:00:00", "Accion", "040XX", "S", "Indiana", "Street", "Chicago", "IL", "60653", "3", "Day Care", "41.820488979", "-87.621662243", [ null, "41.820488978539466", "-87.62166224260152", null, false ] ]
+, [ 145, "0C44ECB1-2CE8-4CBA-917E-A1D28A6A75BC", 145, 1456413152, "390945", 1456413152, "390945", null, "2013-05-18T00:00:00", "Accion", "040XX", "S", "Kedzie", "Avenue", "Chicago", "IL", "60632", "12", "Food/Beverage", "41.819318843", "-87.704557578", [ null, "41.8193188432732", "-87.70455757770209", null, false ] ]
+, [ 146, "C9B2410C-F1BE-4150-BA9F-FF1278388FA0", 146, 1456413152, "390945", 1456413152, "390945", null, "2016-02-10T00:00:00", "CNI", "040XX", "S", "Lake ", " Park ", "Chicago", "IL", "60653", "5", "Manufacturing", "41.821064248", "-87.601609066", [ null, "41.821064248495006", "-87.60160906609795", null, false ] ]
+, [ 147, "9D92BDAA-B2BC-4EDE-9847-268A78D7512A", 147, 1456413152, "390945", 1456413152, "390945", null, "2013-11-30T00:00:00", "Accion", "041XX", "S", "Ashland", "Avenue", "Chicago", "IL", "60609", "12", "Other Services", "41.818054515", "-87.665341967", [ null, "41.81805451475395", "-87.66534196737447", null, false ] ]
+, [ 148, "011A77CF-205D-4855-9D2C-B59BCE00C9FD", 148, 1456413152, "390945", 1456413152, "390945", null, "2015-03-23T00:00:00", "Accion", "041XX", "S", "Maplewood", "Avenue", "Chicago", "IL", "60632", "12", "Manufacturing", "41.817755662", "-87.68852451", [ null, "41.81775566229915", "-87.68852451006609", null, false ] ]
+, [ 149, "2873F573-4DA2-478C-8B5A-9BDDB25F7FB0", 149, 1456413152, "390945", 1456413152, "390945", null, "2013-08-30T00:00:00", "Accion", "041XX", "W", "81st", "Street", "Chicago", "IL", "60652", "18", "Professional/Off Svc", "41.745819843", "-87.726010365", [ null, "41.74581984340114", "-87.72601036482762", null, false ] ]
+, [ 150, "6F4C4FA3-4CFB-4C49-842D-28FED3430BAA", 150, 1456413152, "390945", 1456413152, "390945", null, "2015-06-16T00:00:00", "Accion", "042XX", "N", "Cicero", "Avenue", "Chicago", "IL", "60641", "45", "Professional/Off Svc", "41.958555449", "-87.747611909", [ null, "41.9585554491951", "-87.74761190880362", null, false ] ]
+, [ 151, "229A9DF9-C3B4-4BF3-8387-FDEEFB422E60", 151, 1456413152, "390945", 1456413152, "390945", null, "2012-11-10T00:00:00", "Accion", "043XX", "N", "Campbell", "Street", "Chicago", "IL", "60618", "47", "Wholesale", "41.961010339", "-87.691944203", [ null, "41.961010339066895", "-87.6919442026702", null, false ] ]
+, [ 152, "D2E87D2D-8704-43DE-BAB6-5384607C4650", 152, 1456413152, "390945", 1456413152, "390945", null, "2015-12-11T00:00:00", "Accion", "043XX", "N", "Lincoln", "Avenue", "Chicago", "IL", "60618", "47", "Medical Services", "41.9611988", "-87.683869818", [ null, "41.9611988000442", "-87.68386981831685", null, false ] ]
+, [ 153, "E0EF5180-5671-4C38-8696-D14E5CDB1856", 153, 1456413152, "390945", 1456413152, "390945", null, "2013-05-31T00:00:00", "Accion", "043XX", "N", "Lincoln", "Avenue", "Chicago", "IL", "60618", "47", "Medical Services", "41.9611988", "-87.683869818", [ null, "41.9611988000442", "-87.68386981831685", null, false ] ]
+, [ 154, "FF34FAE2-376E-47D6-9B48-5410AD8CBA7A", 154, 1456413152, "390945", 1456413152, "390945", null, "2013-10-04T00:00:00", "CNI", "043XX", "S", "Vincennes", "Avenue", "Chicago", "IL", "60653", "3", "Food/Beverage", "41.815184026", "-87.614192226", [ null, "41.81518402589755", "-87.61419222560878", null, false ] ]
+, [ 155, "7C8DE7BE-BDB0-4AE6-B6EB-B6947FECC1F4", 155, 1456413152, "390945", 1456413152, "390945", null, "2013-09-19T00:00:00", "WBDC", "043XX", "W", "Fullerton", "Avenue", "Chicago", "IL", "60639", "31", "Professional/Off Svc", "41.924479361", "-87.736194413", [ null, "41.92447936060114", "-87.73619441273912", null, false ] ]
+, [ 156, "01411CE1-BD8A-4989-A079-B9D385E4F05F", 156, 1456413152, "390945", 1456413152, "390945", null, "2014-06-18T00:00:00", "WBDC", "043XX", "W", "Fullerton", "Avenue", "Chicago", "IL", "60639", "31", "Professional/Off Svc", "41.924479361", "-87.736194413", [ null, "41.92447936060114", "-87.73619441273912", null, false ] ]
+, [ 157, "CDF82C33-4897-419B-9681-86C360FF8B95", 157, 1456413152, "390945", 1456413152, "390945", null, "2013-11-08T00:00:00", "WBDC", "044XX", "N", "Ravenswood", "Avenue", "Chicago", "IL", "60640", "47", "Medical Services", "41.963019851", "-87.674712135", [ null, "41.963019850664956", "-87.67471213530199", null, false ] ]
+, [ 158, "1D67617F-6A6D-42AD-948D-7137EE99E033", 158, 1456413152, "390945", 1456413152, "390945", null, "2013-08-30T00:00:00", "Accion", "004XX", "E", "Randolph", "Street", "Chicago", "IL", "60601", "42", "Auto/Vehicle", "41.884483688", "-87.615456174", [ null, "41.88448368813673", "-87.61545617423779", null, false ] ]
+, [ 159, "F16B9B4C-1697-4921-A8B4-C63A9CE34816", 159, 1456413152, "390945", 1456413152, "390945", null, "2014-04-04T00:00:00", "CNI", "045XX", "S", "Greenwood", "Avenue", "Chicago", "IL", "60653", "4", "Other Services", "41.811751058", "-87.599457832", [ null, "41.81175105830976", "-87.59945783218119", null, false ] ]
+, [ 160, "057C98E9-E605-4D4D-A9E3-342BD5FC52CA", 160, 1456413152, "390945", 1456413152, "390945", null, "2013-11-27T00:00:00", "Accion", "045XX", "S", "Leamington", "Street", "Chicago", "IL", "60638", "22", "Professional/Off Svc", "41.809651235", "-87.751917263", [ null, "41.80965123480127", "-87.75191726256269", null, false ] ]
+, [ 161, "A841844E-3A97-4CDB-87CD-3C34E8F523C9", 161, 1456413152, "390945", 1456413152, "390945", null, "2013-05-25T00:00:00", "CNI", "045XX", "S", "St Lawrence", "Street", "Chicago", "IL", "60653", "3", "Construction/Repair", "41.811593819", "-87.611651694", [ null, "41.81159381946024", "-87.61165169371479", null, false ] ]
+, [ 162, "8B5B1950-753D-482F-A5E5-88B48D1EC9CC", 162, 1456413152, "390945", 1456413152, "390945", null, "2013-08-28T00:00:00", "Accion", "045XX", "W", "Irving Pk.", "Rd.", "Chicago", "IL", "60657", "45", "Retail Sales - Other", "41.953583501", "-87.742578071", [ null, "41.95358350064632", "-87.74257807113862", null, false ] ]
+, [ 163, "213E19A3-2CFA-4F21-8081-A4DE6801658E", 163, 1456413152, "390945", 1456413152, "390945", null, "2014-07-25T00:00:00", "Accion", "046XX", "S", "Kolin", "Avenue", "Chicago", "IL", "60632", "14", "Retail Sales - Other", "41.808075695", "-87.732539098", [ null, "41.80807569506072", "-87.73253909758998", null, false ] ]
+, [ 164, "58E28FF5-ED2F-451C-A31F-0FDDF1015FF7", 164, 1456413152, "390945", 1456413152, "390945", null, "2015-03-23T00:00:00", "Accion", "047XX", "N", "Sawyer", "Avenue", "Chicago", "IL", "60625", "33", "Other Services", "41.968126183", "-87.709826697", [ null, "41.9681261833808", "-87.70982669683345", null, false ] ]
+, [ 165, "F9B9EDF4-ED5F-402C-A446-AA590A56C047", 165, 1456413152, "390945", 1456413152, "390945", null, "2012-12-17T00:00:00", "Accion", "048XX", "N", "Broadway", "Street", "Chicago", "IL", "60640", "46", "Food/Beverage", "41.970449245", "-87.65985608", [ null, "41.97044924492594", "-87.65985607953064", null, false ] ]
+, [ 166, "24B758E2-4306-4083-A9FC-3EB53F7C65D2", 166, 1456413152, "390945", 1456413152, "390945", null, "2014-11-24T00:00:00", "Accion", "048XX", "S", "Evans", "Street", "Chicago", "IL", "60615", "4", "Medical Services", "41.806193422", "-87.607859643", [ null, "41.80619342227997", "-87.60785964273944", null, false ] ]
+, [ 167, "9D49D124-4535-42F4-A03C-ACC6168225A6", 167, 1456413152, "390945", 1456413152, "390945", null, "2013-05-30T00:00:00", "CNI", "048XX", "S", "Forestville", "Avenue", "Chicago", "IL", "60615", "4", "Education", "41.806118546", "-87.612741496", [ null, "41.806118546245706", "-87.61274149629953", null, false ] ]
+, [ 168, "D02033C1-2631-48D3-A489-FB13BB1AF848", 168, 1456413152, "390945", 1456413152, "390945", null, "2012-10-20T00:00:00", "Accion", "048XX", "S", "Michigan", "Avenue", "Chicago", "IL", "60615", "3", "Professional/Off Svc", "41.805960625", "-87.622895681", [ null, "41.80596062518711", "-87.62289568111275", null, false ] ]
+, [ 169, "747821EB-3B87-4EF9-96CA-BA218AB021B9", 169, 1456413152, "390945", 1456413152, "390945", null, "2015-11-09T00:00:00", "WBDC", "049XX", "N", "Francisco", "Avenue", "Chicago", "IL", "60625", "40", "Enviromental Consulting", "41.972082832", "-87.701396229", [ null, "41.97208283201744", "-87.70139622919875", null, false ] ]
+, [ 170, "EE2FDE92-54AE-4708-8501-7AB3459CE245", 170, 1456413152, "390945", 1456413152, "390945", null, "2015-03-24T00:00:00", "Accion", "000XX", null, null, null, "Chicago", "IL", "60680", null, "Other Services", null, null, [ null, null, null, null, null ] ]
+, [ 171, "357F7B85-B57F-47B2-8983-3B18189BE269", 171, 1456413152, "390945", 1456413152, "390945", null, "2015-03-05T00:00:00", "Accion", "000XX", null, null, null, "Chicago", "IL", "60636", null, "Other Construction/Repair", null, null, [ null, null, null, null, null ] ]
+, [ 172, "1B0C0678-6661-46E1-BB05-7C0C9A829925", 172, 1456413152, "390945", 1456413152, "390945", null, "2014-08-14T00:00:00", "Accion", "000XX", "E", "102nd", "Place", "Chicago", "IL", "60628", "9", "Professional/Off Svc", "41.708212377", "-87.621623588", [ null, "41.7082123769253", "-87.62162358798388", null, false ] ]
+, [ 173, "40F2B2FF-18A1-4692-8DFB-707818BB655E", 173, 1456413152, "390945", 1456413152, "390945", null, "2013-10-07T00:00:00", "WBDC", "000XX", "E", "14th", "Street", "Chicago", "IL", "60605", "2", "Professional/Off Svc", "41.864181307", "-87.625403212", [ null, "41.86418130661212", "-87.6254032122044", null, false ] ]
+, [ 174, "4880638F-4B9C-492A-92F6-5E84FDB50F2F", 174, 1456413152, "390945", 1456413152, "390945", null, "2013-04-01T00:00:00", "Accion", "000XX", "E", "Jackson", "Boulevard", "Chicago ", "IL", "60604", "42", "Other Services", "41.878362592", "-87.625789895", [ null, "41.87836259235806", "-87.62578989491375", null, false ] ]
+, [ 175, "70B0189B-DF5B-486B-AADC-673D5D168252", 175, 1456413152, "390945", 1456413152, "390945", null, "2013-05-02T00:00:00", "CNI", "000XX", "E", "Washington", "Street", "Chicago", "IL", "60602", "42", "Professional/Off Svc", "41.883330907", "-87.62603979", [ null, "41.88333090689532", "-87.62603978976665", null, false ] ]
+, [ 176, "B641E9C4-2E92-4E4E-9091-9A1ABE874A11", 176, 1456413152, "390945", 1456413152, "390945", null, "2014-12-12T00:00:00", "Accion", "000XX", "N", "LaSalle", "Street", "Chicago", "IL", "60602", "42", "Professional/Off Svc", "41.883173368", "-87.632552736", [ null, "41.88317336800185", "-87.63255273624772", null, false ] ]
+, [ 177, "96DA249D-A60B-407A-A553-57BC14AAA3AC", 177, 1456413152, "390945", 1456413152, "390945", null, "2014-03-03T00:00:00", "CNI", "000XX", "N", "Wacker", "Drive", "Chicago", "IL", "60606", "42", "Professional/Off Svc", "41.883134296", "-87.637191526", [ null, "41.883134295897996", "-87.63719152602066", null, false ] ]
+, [ 178, "E6F166D3-8E28-4832-943E-33A4E1EC8C61", 178, 1456413152, "390945", 1456413152, "390945", null, "2015-12-23T00:00:00", "CNI", "000XX", "N", "Wacker", "Drive", "Chicago", "IL", "60606", "42", "Professional/Off Svc", "41.883134296", "-87.637191526", [ null, "41.883134295897996", "-87.63719152602066", null, false ] ]
+, [ 179, "6C3F6A10-374C-40A6-A30F-E80645D6B571", 179, 1456413152, "390945", 1456413152, "390945", null, "2013-05-30T00:00:00", "CNI", "000XX", "W", "Polk", "Street", "Chicago", "IL", "60605", "2", "Transportation", "41.872386434", "-87.629583433", [ null, "41.87238643412102", "-87.6295834329867", null, false ] ]
+, [ 180, "46BCB914-60D2-4980-8C39-7828C558E929", 180, 1456413152, "390945", 1456413152, "390945", null, "2015-11-03T00:00:00", "WBDC", "000XX", "W", "Schiller", "Street", "Chicago", "IL", "60610", "2", "Entertainment/Manufacturing", "41.90796282", "-87.630584687", [ null, "41.90796281994563", "-87.63058468736337", null, false ] ]
+, [ 181, "13FE5063-C660-411C-92B2-69A17697F206", 181, 1456413152, "390945", 1456413152, "390945", null, "2014-09-16T00:00:00", "CNI", "050XX", "S", "State", "Street", "Chicago", "IL", "60609", "3", "Catering", "41.802247471", "-87.626043589", [ null, "41.80224747133299", "-87.62604358873826", null, false ] ]
+, [ 182, "ECD297AB-FD1C-4B62-B8A0-2FE4F9EFC54D", 182, 1456413152, "390945", 1456413152, "390945", null, "2013-01-10T00:00:00", "CNI", "052XX", "S ", "Harper", "Street", "Chicago", "IL", "60615", "4", "Retail Sales - Other", "41.799563261", "-87.589239073", [ null, "41.79956326078698", "-87.58923907267537", null, false ] ]
+, [ 183, "DC420F5E-4965-40E9-AFC1-AA141918B7CE", 183, 1456413152, "390945", 1456413152, "390945", null, "2013-02-28T00:00:00", "CNI", "052XX", "S", "May", "Street", "Chicago", "IL", "60643", "16", "Construction/Repair", "41.798138001", "-87.653908838", [ null, "41.79813800113937", "-87.65390883782467", null, false ] ]
+, [ 184, "249D5C9B-ABEA-45DE-A75E-9BD32CABCE46", 184, 1456413152, "390945", 1456413152, "390945", null, "2015-01-15T00:00:00", "CNI", "053XX", "S", "Greenwood", "Avenue", "Chicago", "IL", "60615", "5", "Service", "41.798022972", "-87.599856389", [ null, "41.79802297199271", "-87.59985638941095", null, false ] ]
+, [ 185, "C6F600D8-E962-482E-9B5C-38E542AE0A15", 185, 1456413152, "390945", 1456413152, "390945", null, "2014-10-22T00:00:00", "Accion", "053XX", "S", "Hyde Park", "BLVD", "Chicago", "IL", "60615", "5", "Retail Stores", "41.79821668", "-87.58416835", [ null, "41.798216680103366", "-87.58416834977304", null, false ] ]
+, [ 186, "912CAE40-89B1-490E-B01D-5762A8A9C0BD", 186, 1456413152, "390945", 1456413152, "390945", null, "2013-10-02T00:00:00", "WBDC", "053XX", "S", "Hyde Park", "Boulevard", "Chicago", "IL ", "60653", "5", "Professional/Off Svc", "41.79821668", "-87.58416835", [ null, "41.798216680103366", "-87.58416834977304", null, false ] ]
+, [ 187, "1ED5DB1F-9A8B-41DA-AD14-8C9CE6EC344A", 187, 1456413152, "390945", 1456413152, "390945", null, "2013-07-23T00:00:00", "WBDC", "054XX", "W", "Devon", "Avenue", "Chicago", "IL", "60646", "39", "Day Care", "41.997458858", "-87.765754186", [ null, "41.99745885824015", "-87.76575418581317", null, false ] ]
+, [ 188, "DD0DD713-109D-4BFE-B597-C942A0F6CA46", 188, 1456413153, "390945", 1456413153, "390945", null, "2014-10-17T00:00:00", "Accion", "054XX", "W", "Ferdinand", "Street", "Chicago", "IL", "60651", "37", "Auto/Vehicle", "41.888993811", "-87.762246174", [ null, "41.88899381080205", "-87.76224617439887", null, false ] ]
+, [ 189, "35AA5B21-DBE0-4BF4-B715-EA74D186AA7A", 189, 1456413153, "390945", 1456413153, "390945", null, "2015-05-26T00:00:00", "WBDC", "005XX", "E", "43rd", "Street", "Chicago", "IL", "60653", "4", null, "41.816831307", "-87.612018219", [ null, "41.81683130678038", "-87.6120182191566", null, false ] ]
+, [ 190, "9405405D-7A0F-405F-8F35-C4DF8DEBA7CE", 190, 1456413153, "390945", 1456413153, "390945", null, "2013-05-30T00:00:00", "CNI", "005XX", "E", "61st", "Street", "Chicago", "IL", "60637", "20", "Other Services", "41.784071842", "-87.611277409", [ null, "41.78407184195581", "-87.61127740916741", null, false ] ]
+, [ 191, "E6EB24C2-E1D0-4F58-8F74-4842F72061C7", 191, 1456413153, "390945", 1456413153, "390945", null, "2016-01-29T00:00:00", "Accion", "005XX", "N", "Michigan", "Avenue", "Chicago", "IL", "60611", "42", "Retail Sales - Other", "41.892511145", "-87.624330958", [ null, "41.892511144939995", "-87.62433095779593", null, false ] ]
+, [ 192, "36FB4953-78C0-4D7F-9EC1-4A2EE385588E", 192, 1456413153, "390945", 1456413153, "390945", null, "2013-02-20T00:00:00", "Accion", "005XX", "N", "Michigan", "Avenue", "Chicago", "IL", "60611", "42", "Food/Beverage", "41.892511145", "-87.624330958", [ null, "41.892511144939995", "-87.62433095779593", null, false ] ]
+, [ 193, "CA084348-84AC-4969-9812-B40096A80A37", 193, 1456413153, "390945", 1456413153, "390945", null, "2013-11-25T00:00:00", "Accion", "055XX", "S", "State", "Street", "Chicago", "IL", "60621", "3", "Beauty/Salon Services", "41.79291528", "-87.625802131", [ null, "41.79291527962311", "-87.62580213055435", null, false ] ]
+, [ 194, "1ECC79B7-5E4A-44A4-8A99-C65BB97657C3", 194, 1456413153, "390945", 1456413153, "390945", null, "2014-05-20T00:00:00", "Accion", "055XX", "W", "Belmont", "Avenue", "Chicago", "IL", "60641", "31", "Professional/Off Svc", "41.938688594", "-87.766123438", [ null, "41.93868859359603", "-87.76612343785888", null, false ] ]
+, [ 195, "46769113-F3BE-434E-AA84-5209A2E99CDF", 195, 1456413153, "390945", 1456413153, "390945", null, "2015-08-04T00:00:00", "CNI", "056XX", null, "Mannheim", "Road", "Chicago", "IL", "60666", "16", "Other Services - Barbershop", "41.981355689", "-87.879182873", [ null, "41.981355689208115", "-87.8791828728431", null, false ] ]
+, [ 196, "9E8392A6-F44F-45A9-9465-264BA984F1ED", 196, 1456413153, "390945", 1456413153, "390945", null, "2016-02-16T00:00:00", "Accion", "057XX", "N", "Winthrop", "Avenue", "Chicago", "IL", "60660", "48", "Arts/Crafts Production", "41.986987321", "-87.6582672", [ null, "41.98698732052183", "-87.65826720031846", null, false ] ]
+, [ 197, "42503C54-F858-4B30-91E6-CFBBF1AAC3DB", 197, 1456413153, "390945", 1456413153, "390945", null, "2014-07-28T00:00:00", "Accion", "059XX", "S", "Michigan", "Avenue", "Chicago", "IL", "60637", "20", "Construction/Repair", "41.785900266", "-87.622383571", [ null, "41.78590026550305", "-87.62238357058168", null, false ] ]
+, [ 198, "498E21E0-AA6C-41A7-8676-DC9779024961", 198, 1456413153, "390945", 1456413153, "390945", null, "2015-06-03T00:00:00", "Accion", "059XX", "S", "Michigan", "Avenue", "Chicago", "IL", "60637", "20", "Construction/Repair", "41.785900266", "-87.622383571", [ null, "41.78590026550305", "-87.62238357058168", null, false ] ]
+, [ 199, "11CDA84D-84E7-4CDC-980C-96370E64C2EB", 199, 1456413153, "390945", 1456413153, "390945", null, "2012-01-10T00:00:00", "Accion", "059XX", "W", "Patterson", "Avenue", "Chicago", "IL", "60634", "39", "Medical Services", "41.946795663", "-87.776116779", [ null, "41.94679566343606", "-87.77611677888262", null, false ] ]
+, [ 200, "8FC1E2BB-0474-43D0-A29F-8F620D57CFC1", 200, 1456413153, "390945", 1456413153, "390945", null, "2014-09-03T00:00:00", "Accion", "059XX", "W", "Patterson", "Avenue", "Chicago", "IL", "60634", "36", "Medical Services", "41.946795663", "-87.776116779", [ null, "41.94679566343606", "-87.77611677888262", null, false ] ]
+, [ 201, "A3BC2640-9DAE-4406-A55D-EB99FC90AB1F", 201, 1456413153, "390945", 1456413153, "390945", null, "2015-03-04T00:00:00", "Accion", "060XX", "W", "Irving Pk.", "Road", "Chicago", "IL", "60634", "38", "Retail Stores", "41.953128103", "-87.778825478", [ null, "41.95312810286122", "-87.7788254781443", null, false ] ]
+, [ 202, "4AA09104-8E72-41A5-B4D1-6F1A4EE61B02", 202, 1456413153, "390945", 1456413153, "390945", null, "2013-05-09T00:00:00", "Accion", "063XX", "S.", "Kolin", "Avenue", "Chicago", "IL", "60629", "13", "Construction/Repair", "41.777016532", "-87.731410259", [ null, "41.77701653212543", "-87.73141025869704", null, false ] ]
+, [ 203, "B1EE0915-C718-4785-84F9-D2A7AB86B938", 203, 1456413153, "390945", 1456413153, "390945", null, "2014-07-02T00:00:00", "Accion", "063XX", "W", "Cuyler", "Avenue", "Chicago", "IL", "60634", "38", "Food/Beverage", "41.953948536", "-87.786167289", [ null, "41.9539485359146", "-87.78616728857502", null, false ] ]
+, [ 204, "0994778F-C858-428F-A888-2E9360440A3E", 204, 1456413153, "390945", 1456413153, "390945", null, "2014-05-22T00:00:00", "Accion", "064XX", "S", "Pulaski", "Avenue", "Chicago", "IL", "60629", "13", "Food/Beverage", "41.775286556", "-87.722819282", [ null, "41.77528655570301", "-87.72281928238218", null, false ] ]
+, [ 205, "4954E76B-C693-4A63-896E-545B528EFAE3", 205, 1456413153, "390945", 1456413153, "390945", null, "2013-08-28T00:00:00", "WBDC", "064XX", "S", "Washtenaw", "Avenue", "Chicago", "IL", "60629", "15", "Transportation", "41.77572258", "-87.691015878", [ null, "41.77572257951559", "-87.69101587776966", null, false ] ]
+, [ 206, "F8CB30E5-9C89-4058-A9BC-2D62A5554B13", 206, 1456413153, "390945", 1456413153, "390945", null, "2014-06-13T00:00:00", "Accion", "006XX", "E", "71st ", "Street", "Chicago", "IL", "60637", "6", "Construction/Repair", "41.765935086", "-87.608486389", [ null, "41.765935086251496", "-87.60848638882781", null, false ] ]
+, [ 207, "5398BAFD-F447-469B-867D-ED8728B05EEB", 207, 1456413153, "390945", 1456413153, "390945", null, "2012-12-20T00:00:00", "Accion", "006XX", "E", "75th", "Street", "Chicago", "IL", "60619", "6", "Food/Beverage", "41.758642167", "-87.608238768", [ null, "41.75864216743345", "-87.60823876800852", null, false ] ]
+, [ 208, "66C6CB22-DC1E-45B5-A05F-36F2C45A003A", 208, 1456413153, "390945", 1456413153, "390945", null, "2013-05-20T00:00:00", "Accion", "006XX", "N", "Milwaukee", "Avenue", "Chicago", "IL", "60642", "27", "Clothing/Material Production", "41.893222744", "-87.650960012", [ null, "41.89322274412849", "-87.65096001210877", null, false ] ]
+, [ 209, "B9AE0766-1A6A-4E8B-83AC-02625E83E70D", 209, 1456413153, "390945", 1456413153, "390945", null, "2013-04-24T00:00:00", "Accion", "006XX", "S", "Wabash", "Avenue", "Chicago", "IL", "60605", "4", "Retail Sales - Other", "41.873347292", "-87.626117642", [ null, "41.873347292262835", "-87.6261176416595", null, false ] ]
+, [ 210, "D6EFBB8B-5316-46C1-89F9-A96C2FE0EC7F", 210, 1456413153, "390945", 1456413153, "390945", null, "2013-10-07T00:00:00", "WBDC", "006XX", "W", "Cermak", "Avenue", "Chicago", "IL", "60608", "25", "Other Services", "41.852790641", "-87.64364221", [ null, "41.8527906409648", "-87.64364221017235", null, false ] ]
+, [ 211, "25AD53A7-3D66-41EF-A231-164F3CA998D8", 211, 1456413153, "390945", 1456413153, "390945", null, "2013-12-09T00:00:00", "Accion", "006XX", "W", "Cermak", "Rd.", "Chicago", "IL", "60616", "25", "Wholesale", "41.852790641", "-87.64364221", [ null, "41.8527906409648", "-87.64364221017235", null, false ] ]
+, [ 212, "46D2B87B-21F4-4EF0-8A50-F7BA54DDFE33", 212, 1456413153, "390945", 1456413153, "390945", null, "2015-09-22T00:00:00", "CNI", "067XX", "S", "South Chicago", "Avenue", "Chicago", "IL", "60637", "7", "Other Services", "41.771818686", "-87.614077935", [ null, "41.771818686037356", "-87.61407793483764", null, false ] ]
+, [ 213, "5373F76E-36BB-432C-BE18-435B03359E6F", 213, 1456413153, "390945", 1456413153, "390945", null, "2014-01-30T00:00:00", "Accion", "068XX", "S.", "Pulaski", "Avenue", "Chicago", "IL", "60629", "13", "Retail Sales - Other", "41.768013884", "-87.722638914", [ null, "41.7680138835568", "-87.72263891437117", null, false ] ]
+, [ 214, "D268DF3C-74C7-43CC-BADA-06B1B1B9FF0F", 214, 1456413153, "390945", 1456413153, "390945", null, "2012-12-04T00:00:00", "CNI", "069XX", "S", "Cornell", "Avenue", "Chicago", "IL", "60649", "5", "Food/Beverage", "41.76821085", "-87.584545179", [ null, "41.76821084982079", "-87.58454517904856", null, false ] ]
+, [ 215, "5AB73AF8-76B8-4E60-A6CF-263B067B5B07", 215, 1456413153, "390945", 1456413153, "390945", null, "2014-07-30T00:00:00", "Accion", "069XX", "W", "Grand", "Avenue", "Chicago", "IL", "60707", "36", "Auto/Vehicle", "41.923672582", "-87.799705607", [ null, "41.923672581800815", "-87.79970560682945", null, false ] ]
+, [ 216, "667E1447-2E88-457B-B771-DCB01342BD70", 216, 1456413153, "390945", 1456413153, "390945", null, "2014-04-09T00:00:00", "Accion", "073XX", "S", "Artesian", "Avenue", "Chicago", "IL", "60629", "18", "Retail Sales - Other", "41.759524141", "-87.684473522", [ null, "41.759524140995694", "-87.6844735218134", null, false ] ]
+, [ 217, "288450FD-0951-4207-8FB2-C6F394B46789", 217, 1456413153, "390945", 1456413153, "390945", null, "2016-01-13T00:00:00", "WBDC", "074XX", "S", "Merrill", "Street", "Chicago", "IL", "60649", "5", "Construction/Repair", "41.759232588", "-87.572592157", [ null, "41.759232587809855", "-87.57259215676737", null, false ] ]
+, [ 218, "39A38E82-918E-4014-B857-F7E8F73756B3", 218, 1456413153, "390945", 1456413153, "390945", null, "2014-11-25T00:00:00", "Accion", "074XX", "W", "Irving Pk.", "Rd.", "Chicago", "IL", "60634", "38", "Other Services", "41.952711949", "-87.814246268", [ null, "41.952711949344845", "-87.81424626793215", null, false ] ]
+, [ 219, "2A6D8083-AAE1-4047-9496-0D6FA2D8F2C4", 219, 1456413153, "390945", 1456413153, "390945", null, "2012-12-10T00:00:00", "Accion", "007XX", "E", "75th", "Street", "Chicago", "IL", "60619", "6", "Medical Services", "41.758680511", "-87.605796969", [ null, "41.75868051133181", "-87.6057969688689", null, false ] ]
+, [ 220, "A4E3B668-A086-4A05-B9FB-605316637BD9", 220, 1456413153, "390945", 1456413153, "390945", null, "2013-06-28T00:00:00", "Accion", "007XX", "N", "Austin", "Avenue", "Chicago", "IL", "60644", "29", "Medical Services", "41.894322521", "-87.775263449", [ null, "41.89432252118052", "-87.7752634491091", null, false ] ]
+, [ 221, "A04C2C59-819E-4715-BCB9-5ADE28ACE9B3", 221, 1456413153, "390945", 1456413153, "390945", null, "2013-12-16T00:00:00", "Accion", "007XX", "N", "Franklin", "Street", "Chicago", "IL", "60654", "42", "Retail Stores", "41.896317588", "-87.635840254", [ null, "41.89631758778245", "-87.63584025366825", null, false ] ]
+, [ 222, "F8283482-E847-4DE7-84F3-36AD65B8FC6A", 222, 1456413153, "390945", 1456413153, "390945", null, "2013-06-12T00:00:00", "WBDC", "007XX", "N", "Sacramento", "Street", "Chicago", "IL", "60612", "27", "Other Services", "41.895305694", "-87.702341905", [ null, "41.895305693631336", "-87.70234190452632", null, false ] ]
+, [ 223, "7EF95861-64E1-4944-8930-8A8C788069F3", 223, 1456413153, "390945", 1456413153, "390945", null, "2015-01-30T00:00:00", "WBDC", "007XX", "W", "Washington", "Street", "Chicago", "IL", "60661", "42", "Professional/Off Svc", "41.883256433", "-87.647365592", [ null, "41.88325643339401", "-87.64736559214563", null, false ] ]
+, [ 224, "B4B00BF4-6865-4014-B8C4-DE171DAF71FD", 224, 1456413153, "390945", 1456413153, "390945", null, "2013-07-10T00:00:00", "Accion", "075XX", "S", "Clyde", "Avenue", "Chicago", "IL", "60649", "8", "Professional/Off Svc", "41.757403429", "-87.573811245", [ null, "41.757403428767546", "-87.57381124532786", null, false ] ]
+, [ 225, "85B18B0C-B7E6-4BD5-BBF6-F07C7985AFBF", 225, 1456413153, "390945", 1456413153, "390945", null, "2015-03-09T00:00:00", "CNI", "077XX", "S", "Albany", "Avenue", "Chicago", "IL", "60652", "18", "Other Services -Childcare", "41.752003688", "-87.700161747", [ null, "41.75200368812746", "-87.70016174705742", null, false ] ]
+, [ 226, "C663890B-4792-48C4-817C-1E7BCF6A679D", 226, 1456413153, "390945", 1456413153, "390945", null, "2015-04-01T00:00:00", "CNI", "077XX", "S", "Calumet", "Avenue", "Chicago", "IL", "60619", "6", "Other Services - Childcare", "41.75322778", "-87.616735646", [ null, "41.753227780189036", "-87.6167356456003", null, false ] ]
+, [ 227, "944D740F-A10F-456E-A0BA-AFDAB75A7B25", 227, 1456413153, "390945", 1456413153, "390945", null, "2014-11-25T00:00:00", "Accion", "078XX", "S", "Shore", "Drive", "Chicago", "IL", "60649", "7", "transportation", "41.753007302", "-87.549326948", [ null, "41.753007302343704", "-87.54932694804312", null, false ] ]
+, [ 228, "93380789-D56A-48D4-B217-E36E6B1BC71D", 228, 1456413153, "390945", 1456413153, "390945", null, "2015-08-28T00:00:00", "Accion", "080XX", "S", "Normal", "Avenue", "Chicago", "IL", "60620", "17", "Other Services", "41.747411671", "-87.636787879", [ null, "41.74741167131879", "-87.63678787937967", null, false ] ]
+, [ 229, "FDEC6767-53D8-4B14-83EA-9EC673332999", 229, 1456413153, "390945", 1456413153, "390945", null, "2014-05-21T00:00:00", "Accion", "080XX", "S", "Stony Island", "Avenue", "Chicago", "IL", "60617", "8", "Auto/Vehicle", "41.748143549", "-87.586046897", [ null, "41.74814354870762", "-87.58604689738195", null, false ] ]
+, [ 230, "5EB8594E-1C20-4174-BAD7-B5D87272A7F6", 230, 1456413153, "390945", 1456413153, "390945", null, "2014-09-16T00:00:00", "CNI", "081XX", "S", "Cornell", "Avenue", "Chicago", "IL", "60617", "8", "Construction", "41.746689547", "-87.584327648", [ null, "41.74668954706293", "-87.58432764795074", null, false ] ]
+, [ 231, "19E09CFC-EF6C-4D85-8C2D-C7EC4B47FA2A", 231, 1456413153, "390945", 1456413153, "390945", null, "2013-10-04T00:00:00", "WBDC", "081XX", "S", "Langley", "St", "Chicago", "IL", "60619", "6", "Education", "41.746075485", "-87.607663164", [ null, "41.746075484832126", "-87.60766316408197", null, false ] ]
+, [ 232, "69EAEF45-F14B-4116-818C-C3207EF11DD1", 232, 1456413153, "390945", 1456413153, "390945", null, "2016-01-15T00:00:00", "CNI", "008XX", "E", "40th ", "Street", "Chicago", "IL", "60653", "4", "Other Services", "41.821834711", "-87.604472033", [ null, "41.82183471067724", "-87.6044720325633", null, false ] ]
+, [ 233, "8A2A49FB-5F85-4481-9167-30CF765BF114", 233, 1456413153, "390945", 1456413153, "390945", null, "2013-12-17T00:00:00", "Accion", "008XX", "S", "Wabash", "Avenue", "Chicago", "IL", "60605", "4", "Retail Sales - Other", "41.871184354", "-87.62606949", [ null, "41.87118435389697", "-87.62606949029313", null, false ] ]
+, [ 234, "4D074F85-D9F2-4116-A5F3-85FB9C4A3016", 234, 1456413153, "390945", 1456413153, "390945", null, "2015-02-26T00:00:00", "Accion", "008XX", "S", "Wabash", "Avenue", "Chicago", "IL", "60605", "4", "Electronics", "41.871184354", "-87.62606949", [ null, "41.87118435389697", "-87.62606949029313", null, false ] ]
+, [ 235, "1F7DF70D-934E-4EE5-9B07-2ECAABF0427E", 235, 1456413153, "390945", 1456413153, "390945", null, "2015-06-04T00:00:00", "WBDC", "008XX", "W", "63rd", "Street", "Chicago", "IL", "60621", "20", null, "41.779826797", "-87.646902618", [ null, "41.77982679720496", "-87.64690261797884", null, false ] ]
+, [ 236, "D7EF2055-617A-4966-AB1B-F6295AC60AED", 236, 1456413153, "390945", 1456413153, "390945", null, "2015-04-01T00:00:00", "CNI", "085XX", "S", "Racine", "Avenue", "Chicago", "IL", "60620", "21", "Other Services - Tire Repair", "41.738069556", "-87.653544944", [ null, "41.738069556335596", "-87.65354494357217", null, false ] ]
+, [ 237, "8EACEC2B-BBAE-498D-B814-631FD078384A", 237, 1456413153, "390945", 1456413153, "390945", null, "2015-08-31T00:00:00", "Accion", "087XX", "S", "Racine", "Avenue", "Chicago", "IL", "60620", "21", "Retail Services - Other", "41.734425227", "-87.653443031", [ null, "41.734425226572206", "-87.65344303052751", null, false ] ]
+, [ 238, "54ECD211-59CB-4EC1-9963-543D2AE053FD", 238, 1456413153, "390945", 1456413153, "390945", null, "2012-12-10T00:00:00", "Accion", "087XX", "S", "Racine", "Avenue", "Chicago", "IL", "60620", "21", "Retail Sales - Other", "41.734425227", "-87.653443031", [ null, "41.734425226572206", "-87.65344303052751", null, false ] ]
+, [ 239, "8D294FAB-09AC-4C99-83B4-7C84E931B60D", 239, 1456413153, "390945", 1456413153, "390945", null, "2015-08-06T00:00:00", "CNI", "089XX", "S", "Blackstone", "Street", "Chicago", "IL", "60619", "8", "Transportation", "41.731729337", "-87.588167875", [ null, "41.731729336641656", "-87.5881678746066", null, false ] ]
+, [ 240, "BB42720D-07A4-424F-8B7B-D5ED5F2A6EC5", 240, 1456413153, "390945", 1456413153, "390945", null, "2015-12-11T00:00:00", "CNI", "089XX", "S", "Euclid", "Avenue", "Chicago", "IL", "60617", "8", "Other Services - Education", "41.731882963", "-87.576953624", [ null, "41.73188296339253", "-87.57695362361743", null, false ] ]
+, [ 241, "A6635034-5D2B-4BE7-886F-8447C17D8EED", 241, 1456413153, "390945", 1456413153, "390945", null, "2013-04-27T00:00:00", "Accion", "092XX", "S", "Anthony", "Avenue", "Chicago", "IL", "60617", "10", "Day Care", "41.726626307", "-87.554414097", [ null, "41.72662630700125", "-87.5544140970935", null, false ] ]
+, [ 242, "8AD4DEFF-F711-40B1-AC92-351F8D8F37A6", 242, 1456413153, "390945", 1456413153, "390945", null, "2016-02-16T00:00:00", "CNI", "092XX", "S", "Commercial", " Avenue ", "Chicago", "IL", "60617", "7", "Transportation", "41.726813141", "-87.551328661", [ null, "41.72681314062514", "-87.55132866101212", null, false ] ]
+, [ 243, "48BF5853-70D8-4DB4-AE4F-97F4C445A601", 243, 1456413153, "390945", 1456413153, "390945", null, "2013-05-07T00:00:00", "Accion", "093XX", "S", "Halsted", "Street", "Chicago", "IL", "60620", "21", "Beauty/Salon Services", "41.72357081", "-87.643414424", [ null, "41.72357080995004", "-87.64341442435766", null, false ] ]
+, [ 244, "ACE4E611-0546-491F-AE92-3FE2FA26A054", 244, 1456413153, "390945", 1456413153, "390945", null, "2014-12-05T00:00:00", "Accion", "094XX", "S", "Perry", "Avenue", "Chicago", "IL", "60620", "21", "Day Care", "41.722006907", "-87.626390322", [ null, "41.72200690722266", "-87.62639032219802", null, false ] ]
+, [ 245, "095F3128-1DC8-4B07-A506-1F898DC1D627", 245, 1456413153, "390945", 1456413153, "390945", null, "2013-05-10T00:00:00", "Accion", "009XX", "E", "47th", "Street", "Chicago", "IL", "60653", "4", "Beauty/Salon Services", "41.809696835", "-87.601757992", [ null, "41.809696834775934", "-87.60175799174536", null, false ] ]
+, [ 246, "322EE6FB-F547-4654-8186-51112504DD07", 246, 1456413153, "390945", 1456413153, "390945", null, "2015-06-29T00:00:00", "CNI", "009XX", "W", "North", "Avenue", "Chicago", "IL", "60642", "21", "Transportation", "41.910951382", "-87.653010859", [ null, "41.910951381838736", "-87.65301085946902", null, false ] ]
+, [ 247, "C46FF715-3C49-448F-B378-908650F6CDD6", 247, 1456413153, "390945", 1456413153, "390945", null, "2013-04-19T00:00:00", "WBDC", "009XX", "W", "Van Buren", "Street", "Chicago", "IL", "60607", "2", "Beauty/Salon Services", "41.876716551", "-87.651574752", [ null, "41.876716550619804", "-87.65157475168087", null, false ] ]
+, [ 248, "0CCD8762-A3A5-4336-B016-55659CA6CB24", 248, 1456413153, "390945", 1456413153, "390945", null, "2013-08-05T00:00:00", "CNI", "009XX", "W", "Washington", "Street", "Chicago", "IL", "60607", "27", "Other Services", "41.883179433", "-87.651753296", [ null, "41.883179432855336", "-87.65175329591203", null, false ] ]
+, [ 249, "2492227B-1908-4118-B7FA-FF64C8EACC08", 249, 1456413153, "390945", 1456413153, "390945", null, "2013-08-05T00:00:00", "CNI", "009XX", "W", "Washington", "Street", "Chicago", "IL", "60607", "27", "Other Services", "41.883179433", "-87.651753296", [ null, "41.883179432855336", "-87.65175329591203", null, false ] ]
+, [ 250, "FC4E56B6-0A15-47BC-90E1-0FA22FD15F06", 250, 1456413153, "390945", 1456413153, "390945", null, "2013-08-05T00:00:00", "CNI", "009XX", "W", "Washington", "Street", "Chicago", "IL", "60607", "27", "Construction/Repair", "41.883179433", "-87.651753296", [ null, "41.883179432855336", "-87.65175329591203", null, false ] ]
+, [ 251, "9B6DF1C1-0AD7-4807-B616-4EA19A501082", 251, 1456413153, "390945", 1456413153, "390945", null, "2014-11-18T00:00:00", "Accion", "095XX", "S", "Constance", "Street", "Chicago", "IL", "60617", "7", "Day Care", "41.720988133", "-87.579112453", [ null, "41.720988132805026", "-87.57911245263031", null, false ] ]
+, [ 252, "E36FFFAF-64EA-465E-9E65-2E39EB03C222", 252, 1456413153, "390945", 1456413153, "390945", null, "2013-04-22T00:00:00", "CNI", "095XX", "S", "King", "Drive", "Chicago", "IL", "60628", "6", "Professional/Off Svc", "41.720390674", "-87.614253606", [ null, "41.72039067363381", "-87.614253605716", null, false ] ]
+ ]
+}
