@@ -1,2 +1,2 @@
 # Python-Data
-Python Data Science and Analytics notebooks. Just for practice :)
+Python Data Science notebooks. Just for practice :)
