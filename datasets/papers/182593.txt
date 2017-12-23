@@ -1,0 +1,1 @@
+Beyond uniformity and independence: analysis of R-trees using the concept of fractal dimension

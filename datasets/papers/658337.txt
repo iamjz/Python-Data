@@ -1,0 +1,1 @@
+A Single-User Performance Evaluation of the Teradata Database Machine

@@ -1,0 +1,1 @@
+Real-Time Dependable Channels: Customizing QoS Attributes for Distributed Systems

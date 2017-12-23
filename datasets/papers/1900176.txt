@@ -1,0 +1,1 @@
+Riak Core: building distributed applications without shared state

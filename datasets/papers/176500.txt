@@ -1,0 +1,1 @@
+References to remote mobile objects in Thor

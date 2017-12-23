@@ -1,0 +1,1 @@
+Consistent hashing and random trees: distributed caching protocols for relieving hot spots on the World Wide Web

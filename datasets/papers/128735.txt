@@ -1,0 +1,1 @@
+Tolerating failures of continuous-valued sensors

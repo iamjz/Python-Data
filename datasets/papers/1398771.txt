@@ -1,0 +1,1 @@
+Multiple non-interactive zero knowledge proofs based on a single random string

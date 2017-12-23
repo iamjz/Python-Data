@@ -1,0 +1,1 @@
+Analysis of Concurrency-Coherency Control Protocols for Distributed Transaction Processing Systems with Regional Locality

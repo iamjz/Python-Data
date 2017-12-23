@@ -1,0 +1,1 @@
+Support for repetitive transactions and ad hoc queries in System R

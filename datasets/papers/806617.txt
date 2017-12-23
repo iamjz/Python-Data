@@ -1,0 +1,1 @@
+A message system supporting fault tolerance

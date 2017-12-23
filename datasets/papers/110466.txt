@@ -1,0 +1,1 @@
+A simple and correct shared-queue algorithm using compare-and-swap

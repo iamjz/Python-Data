@@ -1,0 +1,1 @@
+Defending against denial of service attacks in Scout

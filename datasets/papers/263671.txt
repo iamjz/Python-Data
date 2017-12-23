@@ -1,0 +1,1 @@
+A cost model for nearest neighbor search in high-dimensional data space

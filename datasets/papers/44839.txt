@@ -1,0 +1,1 @@
+Sequoia: A Fault-Tolerant Tightly Coupled Multiprocessor for Transaction Processing

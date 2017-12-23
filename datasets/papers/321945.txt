@@ -1,0 +1,1 @@
+New Algorithms and Lower Bounds for the Parallel Evaluation of Certain Rational Expressions and Recurrences

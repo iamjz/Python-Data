@@ -1,0 +1,1 @@
+Manetho: Transparent Roll Back-Recovery with Low Overhead, Limited Rollback, and Fast Output Commit

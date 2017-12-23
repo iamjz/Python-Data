@@ -1,0 +1,1 @@
+Efficient Execution of Read-Only Transactions in Replicated Multiversion Databases

@@ -1,0 +1,1 @@
+The performance of available copy protocols for the management of replicated data

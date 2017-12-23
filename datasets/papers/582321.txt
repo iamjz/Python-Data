@@ -1,0 +1,1 @@
+The K-D-B-tree: a search structure for large multidimensional dynamic indexes

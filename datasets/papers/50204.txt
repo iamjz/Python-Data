@@ -1,0 +1,1 @@
+Grammar-like functional rules for representing query optimization alternatives

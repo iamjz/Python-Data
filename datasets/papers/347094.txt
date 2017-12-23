@@ -1,0 +1,1 @@
+Hancock: a language for extracting signatures from data streams

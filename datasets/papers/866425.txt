@@ -1,0 +1,1 @@
+Trade-offs Between Replication and Availability in Distributed Databases

@@ -1,0 +1,1 @@
+Impact of Checkpoint Latency on Overhead Ratio of a Checkpointing Scheme

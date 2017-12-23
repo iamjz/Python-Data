@@ -1,0 +1,1 @@
+Replica control in distributed systems: as asynchronous approach

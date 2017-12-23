@@ -1,0 +1,1 @@
+A performance model of a design for a minimally replicated distributed database for database-driven telecommunications services

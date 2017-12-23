@@ -1,0 +1,1 @@
+Simple constant-time consensus protocols in realistic failure models (extended abstract)

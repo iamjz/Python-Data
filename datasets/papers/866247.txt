@@ -1,0 +1,1 @@
+A Paradigm for Concurrency Control Protocols for Distributed Databases

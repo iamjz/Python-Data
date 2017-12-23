@@ -1,0 +1,1 @@
+On the time required for a sequence of matrix products

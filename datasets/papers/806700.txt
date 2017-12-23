@@ -1,0 +1,1 @@
+A multi-version concurrency scheme with no rollbacks

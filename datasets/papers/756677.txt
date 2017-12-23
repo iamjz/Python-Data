@@ -1,0 +1,1 @@
+Reading Many Variables in One Atomic Operation: Solutions With Linear or Sublinear Complexity

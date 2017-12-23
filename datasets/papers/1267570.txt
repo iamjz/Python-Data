@@ -1,0 +1,1 @@
+A secure environment for untrusted helper applications confining the Wily Hacker

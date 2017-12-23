@@ -1,0 +1,1 @@
+A polynomial algorithm for computation of the probability of conflicts in a database under arbitrary data access distribution

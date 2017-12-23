@@ -1,0 +1,1 @@
+Encryption-based protection for interactive user/computer communication

@@ -1,0 +1,1 @@
+Chained Declustering: A New Availability Strategy for Multiprocessor Database Machines

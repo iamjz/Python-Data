@@ -1,0 +1,1 @@
+Potential benefits of delta encoding and data compression for HTTP

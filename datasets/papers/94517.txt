@@ -1,0 +1,1 @@
+Hybrid-range partitioning strategy: a new declustering strategy for multiprocessor databases machines

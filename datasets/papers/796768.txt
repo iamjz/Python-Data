@@ -1,0 +1,1 @@
+Group, majority, and strict agreement in timed asynchronous distributed systems

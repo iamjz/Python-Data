@@ -1,0 +1,1 @@
+Bucket spreading parallel hash: a new, robust, parallel hash join method for data skew in the super database computer (SDC)

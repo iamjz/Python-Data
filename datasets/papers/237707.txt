@@ -1,0 +1,1 @@
+Efficient and accurate cost models for parallel query optimization (extended abstract)

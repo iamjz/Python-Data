@@ -1,0 +1,1 @@
+Transactional information systems: theory, algorithms, and the practice of concurrency control and recovery

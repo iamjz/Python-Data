@@ -1,0 +1,1 @@
+PayWord and MicroMint: Two Simple Micropayment Schemes

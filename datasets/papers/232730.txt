@@ -1,0 +1,1 @@
+Pan-browser support for annotations and other meta-information on the World Wide Web

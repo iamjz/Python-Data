@@ -1,0 +1,1 @@
+A locking protocol for resource coordination in distributed databases

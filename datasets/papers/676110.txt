@@ -1,0 +1,1 @@
+Competitive Hill-Climbing Strategies for Replica Placement in a Distributed File System

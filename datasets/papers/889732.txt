@@ -1,0 +1,1 @@
+Authenticated Byzantine Fault Tolerance Without Public-Key Cryptography

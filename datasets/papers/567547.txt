@@ -1,0 +1,1 @@
+On the advantages of free choice: a symmetric and fully distributed solution to the dining philosophers problem

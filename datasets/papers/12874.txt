@@ -1,0 +1,1 @@
+Real-time Euclid: a language for reliable real-time systems

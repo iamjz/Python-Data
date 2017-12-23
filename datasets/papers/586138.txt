@@ -1,0 +1,1 @@
+A reputation-based approach for choosing reliable resources in peer-to-peer networks

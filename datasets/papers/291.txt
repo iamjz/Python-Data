@@ -1,0 +1,1 @@
+Principles of transaction-oriented database recovery

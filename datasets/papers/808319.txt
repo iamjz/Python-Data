@@ -1,0 +1,1 @@
+Process structuring, synchronization, and recovery using atomic actions

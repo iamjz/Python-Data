@@ -1,0 +1,1 @@
+Analysis of impact of network delay on multiversion conservative timestamp algorithms in DDBS

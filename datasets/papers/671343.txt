@@ -1,0 +1,1 @@
+Atomicity versus Anonymity: Distributed Transactions for Electronic Commerce

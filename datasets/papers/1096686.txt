@@ -1,0 +1,1 @@
+Diamond: A Storage Architecture for Early Discard in Interactive Search

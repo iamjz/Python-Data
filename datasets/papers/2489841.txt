@@ -1,0 +1,1 @@
+A new concurrency model for Scala based on a declarative dataflow core

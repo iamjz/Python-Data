@@ -1,0 +1,1 @@
+Terra: a virtual machine-based platform for trusted computing

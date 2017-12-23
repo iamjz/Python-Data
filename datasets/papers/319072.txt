@@ -1,0 +1,1 @@
+An effective algorithm for parallelizing sort merge joins in the presence of data skew

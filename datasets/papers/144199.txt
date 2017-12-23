@@ -1,0 +1,1 @@
+Supporting real-time applications in an Integrated Services Packet Network: architecture and mechanism

@@ -1,0 +1,1 @@
+Inductive Definitions in the system Coq - Rules and Properties

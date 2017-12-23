@@ -1,0 +1,1 @@
+An improved protocol for demonstrating possession of discrete logarithms and some generalizations

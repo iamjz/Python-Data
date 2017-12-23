@@ -1,0 +1,1 @@
+Resource partitioning for real-time communication

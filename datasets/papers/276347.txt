@@ -1,0 +1,1 @@
+Replication, consistency, and practicality: are these mutually exclusive?

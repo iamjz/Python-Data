@@ -1,0 +1,1 @@
+Transaction classification to survive a network partition

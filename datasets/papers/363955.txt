@@ -1,0 +1,1 @@
+A new approach to developing and implementing eager database replication protocols

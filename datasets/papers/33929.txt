@@ -1,0 +1,1 @@
+Performance analysis of centralized databases with optimistic concurrency control

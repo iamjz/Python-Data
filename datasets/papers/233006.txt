@@ -1,0 +1,1 @@
+STiNG: a CC-NUMA computer system for the commercial marketplace

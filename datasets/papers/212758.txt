@@ -1,0 +1,1 @@
+Formal specification and compositional verification of an atomic broadcast protocol

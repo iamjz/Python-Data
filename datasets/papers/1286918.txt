@@ -1,0 +1,1 @@
+Timestamp-based algorithms for concurrency control in distributed database systems

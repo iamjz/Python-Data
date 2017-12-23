@@ -1,0 +1,1 @@
+Tandem Database Group - NonStop SQL: A Distributed, High-Performance, High-Availability Implementation of SQL

@@ -1,0 +1,1 @@
+Stronger semantics for low-latency geo-replicated storage

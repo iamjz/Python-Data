@@ -1,0 +1,1 @@
+Process synchronization without long-term interlock

@@ -1,0 +1,1 @@
+Compression and fast indexing for multi-gigabyte text databases

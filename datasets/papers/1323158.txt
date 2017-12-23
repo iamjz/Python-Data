@@ -1,0 +1,1 @@
+Classic Paxos vs. fast Paxos: caveat emptor

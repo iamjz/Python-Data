@@ -1,0 +1,1 @@
+Active disk paxos with infinitely many processes

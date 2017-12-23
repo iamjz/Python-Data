@@ -1,0 +1,1 @@
+Recovery semantics for a DB/DC system

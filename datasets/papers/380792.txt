@@ -1,0 +1,1 @@
+Conditions on input vectors for consensus solvability in asynchronous distributed systems

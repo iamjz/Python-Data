@@ -1,0 +1,1 @@
+Using dynamic sets to reduce the aggregate latency of data access

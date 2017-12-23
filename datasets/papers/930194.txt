@@ -1,0 +1,1 @@
+Weak consistency: a generalized theory and optimistic implementations for distributed transactions

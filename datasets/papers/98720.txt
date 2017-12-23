@@ -1,0 +1,1 @@
+Encapsulation of parallelism in the Volcano query processing system

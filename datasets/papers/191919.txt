@@ -1,0 +1,1 @@
+QuickStore: a high performance mapped object store

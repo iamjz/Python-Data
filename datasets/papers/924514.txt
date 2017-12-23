@@ -1,0 +1,1 @@
+Theory and practice of verifiable secret sharing

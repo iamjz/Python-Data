@@ -1,0 +1,1 @@
+A principle for resilient sharing of distributed resources

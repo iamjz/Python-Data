@@ -1,0 +1,1 @@
+A reliable object-oriented data repository for a distributed computer system

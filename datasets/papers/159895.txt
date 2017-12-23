@@ -1,0 +1,1 @@
+Regeneration with Virtual Copies for Distributed Computing Systems

@@ -1,0 +1,1 @@
+Removing backing store administration from the CAP operating system

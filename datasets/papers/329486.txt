@@ -1,0 +1,1 @@
+Effective fine-grain synchronization for automatically parallelized programs using optimistic synchronization primitives

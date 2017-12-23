@@ -1,0 +1,1 @@
+Delta Four: A Generic Architecture for Dependable Distributed Computing

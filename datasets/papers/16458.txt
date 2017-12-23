@@ -1,0 +1,1 @@
+A Crash Recovery Scheme for a Memory-Resident Database System

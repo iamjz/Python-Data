@@ -1,0 +1,1 @@
+Riak PG: distributed process groups on dynamo-style distributed storage

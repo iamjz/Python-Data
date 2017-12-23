@@ -1,0 +1,1 @@
+A set of protocols for micropayments in distributed systems

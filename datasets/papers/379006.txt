@@ -1,0 +1,1 @@
+System architecture directions for networked sensors

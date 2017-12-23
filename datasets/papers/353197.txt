@@ -1,0 +1,1 @@
+Guava: a dialect of Java without data races

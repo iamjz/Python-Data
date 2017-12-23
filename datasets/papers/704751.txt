@@ -1,0 +1,1 @@
+A Digital Signature Based on a Conventional Encryption Function

@@ -1,0 +1,1 @@
+Optimistic recovery in distributed systems

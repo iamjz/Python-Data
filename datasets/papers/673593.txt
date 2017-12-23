@@ -1,0 +1,1 @@
+A Sophisticate's Introduction to Distributed Concurrency Control (Invited Paper)

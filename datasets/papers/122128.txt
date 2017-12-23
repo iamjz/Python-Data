@@ -1,0 +1,1 @@
+Reliable atomic broadcast in distributed systems with omission faults

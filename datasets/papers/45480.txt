@@ -1,0 +1,1 @@
+A digital signature scheme secure against adaptive chosen-message attacks

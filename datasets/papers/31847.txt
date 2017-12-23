@@ -1,0 +1,1 @@
+A weighted voting algorithm for replicated directories

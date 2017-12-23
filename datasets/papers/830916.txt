@@ -1,0 +1,1 @@
+Fast Replicated State Machines Over Partitionable Networks

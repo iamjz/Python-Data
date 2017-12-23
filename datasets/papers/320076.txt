@@ -1,0 +1,1 @@
+A Majority consensus approach to concurrency control for multiple copy databases

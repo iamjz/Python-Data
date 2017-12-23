@@ -1,0 +1,1 @@
+Reducing elliptic curve logarithms to logarithms in a finite field

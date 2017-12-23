@@ -1,0 +1,1 @@
+Dynamic queries for information exploration: an implementation and evaluation

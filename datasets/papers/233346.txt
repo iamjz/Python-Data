@@ -1,0 +1,1 @@
+Safe and efficient sharing of persistent objects in Thor

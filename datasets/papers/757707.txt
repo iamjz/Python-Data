@@ -1,0 +1,1 @@
+Integrating Semi-Join-Reducers into State of the Art Query Processors

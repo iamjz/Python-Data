@@ -1,0 +1,1 @@
+Multiparty negotiation of dynamic distributed object services

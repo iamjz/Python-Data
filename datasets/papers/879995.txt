@@ -1,0 +1,1 @@
+Server recovery using naturally replicated state: a case study

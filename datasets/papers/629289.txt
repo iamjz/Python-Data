@@ -1,0 +1,1 @@
+MAGIC: A Multiattribute Declustering Mechanism for Multiprocessor Database Machines

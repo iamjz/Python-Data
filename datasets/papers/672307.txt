@@ -1,0 +1,1 @@
+A Taxonomy and Performance Model of Data Skew Effects in Parallel Joins

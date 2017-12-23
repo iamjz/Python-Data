@@ -1,0 +1,1 @@
+Strongman: a scalable solution to trust management in networks

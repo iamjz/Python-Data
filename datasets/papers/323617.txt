@@ -1,0 +1,1 @@
+A formal model of knowledge, action, and communication in distributed systems: preliminary report

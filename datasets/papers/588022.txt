@@ -1,0 +1,1 @@
+Is byzantine agreement useful in a distributed database?

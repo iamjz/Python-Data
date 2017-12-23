@@ -1,0 +1,1 @@
+Automatically closing open reactive programs

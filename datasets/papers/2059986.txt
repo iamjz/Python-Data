@@ -1,0 +1,1 @@
+CloudDB AutoAdmin: Towards a Truly Elastic Cloud-Based Data Store

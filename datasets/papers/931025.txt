@@ -1,0 +1,1 @@
+Survivable distributed systems: design and implementation (common object request broker architecture)

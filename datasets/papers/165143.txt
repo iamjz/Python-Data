@@ -1,0 +1,1 @@
+Parity logging overcoming the small write problem in redundant disk arrays

@@ -1,0 +1,1 @@
+The correctness of concurrency control mechanisms in a system for distributed databases (SDD-1)

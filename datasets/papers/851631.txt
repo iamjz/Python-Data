@@ -1,0 +1,1 @@
+Group communication support for distributed collaboration systems

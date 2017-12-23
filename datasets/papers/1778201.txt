@@ -1,0 +1,1 @@
+Observable confluence for constraint handling rules

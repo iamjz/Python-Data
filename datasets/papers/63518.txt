@@ -1,0 +1,1 @@
+Local atomicity properties: modular concurrency control for abstract data types

@@ -1,0 +1,1 @@
+Multilevel atomicity—a new correctness criterion for database concurrency control

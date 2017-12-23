@@ -1,0 +1,1 @@
+Simple and efficient bounded concurrent timestamping or bounded concurrent timestamp systems are comprehensible!

@@ -1,0 +1,1 @@
+A cookbook for using the model-view controller user interface paradigm in Smalltalk-80

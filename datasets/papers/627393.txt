@@ -1,0 +1,1 @@
+Locking Performance in a Shared Nothing Parallel Database Machine

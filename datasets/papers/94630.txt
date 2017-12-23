@@ -1,0 +1,1 @@
+Distributed linear hashing and parallel projection in main memory databases

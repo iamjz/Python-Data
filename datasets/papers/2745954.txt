@@ -1,0 +1,1 @@
+Lasp: a language for distributed, eventually consistent computations with CRDTs

@@ -1,0 +1,1 @@
+Semantics based transaction management techniques for replicated data

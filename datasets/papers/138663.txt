@@ -1,0 +1,1 @@
+Symmetric multiprocessing in Solaris 2.0

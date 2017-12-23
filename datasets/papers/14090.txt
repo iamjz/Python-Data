@@ -1,0 +1,1 @@
+A simple unpredictable pseudo random number generator

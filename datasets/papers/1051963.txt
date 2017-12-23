@@ -1,0 +1,1 @@
+STRIDER: A Black-box, State-based Approach to Change and Configuration Management and Support

@@ -1,0 +1,1 @@
+A modular approach to the design and analysis of authentication and key exchange protocols (extended abstract)

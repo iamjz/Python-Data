@@ -1,0 +1,1 @@
+Protection traps and alternatives for memory management of an object-oriented language

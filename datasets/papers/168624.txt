@@ -1,0 +1,1 @@
+The Information Bus: an architecture for extensible distributed systems

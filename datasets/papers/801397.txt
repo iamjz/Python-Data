@@ -1,0 +1,1 @@
+A decomposition solution to the queueing network model of the centralized DBMS with static locking

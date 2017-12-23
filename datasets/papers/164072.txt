@@ -1,0 +1,1 @@
+Fast, scalable synchronization with minimal hardware support

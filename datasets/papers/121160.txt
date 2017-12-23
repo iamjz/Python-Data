@@ -1,0 +1,1 @@
+Authentication in distributed systems: theory and practice

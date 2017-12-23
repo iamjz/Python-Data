@@ -1,0 +1,1 @@
+A hard-core predicate for all one-way functions

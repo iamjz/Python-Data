@@ -1,0 +1,1 @@
+Consistency in a partitioned network: a survey

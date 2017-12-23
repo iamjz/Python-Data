@@ -1,0 +1,1 @@
+A performance evaluation of four parallel join algorithms in a shared-nothing multiprocessor environment

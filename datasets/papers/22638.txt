@@ -1,0 +1,1 @@
+Knowledge and common knowledge in a Byzantine environment I: crash failures

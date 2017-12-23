@@ -1,0 +1,1 @@
+A message authenticator algorithm suitable for a mainframe computer

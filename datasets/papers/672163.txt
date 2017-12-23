@@ -1,0 +1,1 @@
+Using Write Protected Data Structures To Improve Software Fault Tolerance in Highly Available Database Management Systems

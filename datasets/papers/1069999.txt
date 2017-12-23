@@ -1,0 +1,1 @@
+Adaptive Mechanisms and Policies for Managing Cache Hierarchies in Chip Multiprocessors

@@ -1,0 +1,1 @@
+Parallel algorithms for shared-memory machines

@@ -1,0 +1,1 @@
+A hardware architecture for implementing protection rings

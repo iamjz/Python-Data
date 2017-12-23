@@ -1,0 +1,1 @@
+Dealing with server corruption in weakly consistent, replicated data systems

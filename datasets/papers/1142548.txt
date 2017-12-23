@@ -1,0 +1,1 @@
+Integrating compression and execution in column-oriented database systems

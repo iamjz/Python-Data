@@ -1,0 +1,1 @@
+Discarding Obsolete Information in a Replicated Database System

@@ -1,0 +1,1 @@
+Transaction synchronisation in object bases

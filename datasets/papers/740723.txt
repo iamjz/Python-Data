@@ -1,0 +1,1 @@
+MMH: Software Message Authentication in the Gbit/Second Rates

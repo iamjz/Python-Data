@@ -1,0 +1,1 @@
+A Pessimistic Consistency Control Algorithm for Replicated Files Which Achieves High Availability

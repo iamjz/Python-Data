@@ -1,0 +1,1 @@
+Maintaining availability in partitioned replicated databases

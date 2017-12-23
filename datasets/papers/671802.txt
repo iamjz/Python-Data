@@ -1,0 +1,1 @@
+Reducing Storage for Quorum Consensus Algorithms

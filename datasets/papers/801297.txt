@@ -1,0 +1,1 @@
+A device independent graphics imaging model for use with raster devices

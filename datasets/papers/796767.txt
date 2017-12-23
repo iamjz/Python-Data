@@ -1,0 +1,1 @@
+Consensus service: a modular approach for building agreement protocols in distributed systems

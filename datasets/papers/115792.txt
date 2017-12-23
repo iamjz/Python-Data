@@ -1,0 +1,1 @@
+A stochastic approach for clustering in object bases

@@ -1,0 +1,1 @@
+Concurrency control and recovery in multiprocessor database machines: design and performance evaluation

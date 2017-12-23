@@ -1,0 +1,1 @@
+Scalable object-tracking through unattended techniques (SCOUT)

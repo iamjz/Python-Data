@@ -1,0 +1,1 @@
+The generalized tree quorum protocol: an efficient approach for managing replicated data

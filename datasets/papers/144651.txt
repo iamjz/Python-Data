@@ -1,0 +1,1 @@
+A characterization of the variability of packet arrival processes in workstation networks

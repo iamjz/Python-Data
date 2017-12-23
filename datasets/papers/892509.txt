@@ -1,0 +1,1 @@
+A classification of update methods for replicated databases

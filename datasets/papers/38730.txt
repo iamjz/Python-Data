@@ -1,0 +1,1 @@
+A recovery algorithm for a high-performance memory-resident database system

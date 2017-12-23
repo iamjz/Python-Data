@@ -1,0 +1,1 @@
+Shared memory consistency conditions for non-sequential execution: definitions and programming strategies

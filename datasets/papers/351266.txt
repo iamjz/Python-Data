@@ -1,0 +1,1 @@
+QuickCheck: a lightweight tool for random testing of Haskell programs

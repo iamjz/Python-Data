@@ -1,0 +1,1 @@
+SNAP: A Protocol for Negotiating Service Level Agreements and Coordinating Resource Management in Distributed Systems

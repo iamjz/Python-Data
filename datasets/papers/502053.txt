@@ -1,0 +1,1 @@
+Storage management and caching in PAST, a large-scale, persistent peer-to-peer storage utility

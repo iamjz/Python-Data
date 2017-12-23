@@ -1,0 +1,1 @@
+Efficient Dynamic-Resharing "Verifiable Secret Sharing" Against Mobile Adversary

@@ -1,0 +1,1 @@
+A tradeoff between space and efficiency for routing tables

@@ -1,0 +1,1 @@
+Virtual services: a new abstraction for server consolidation

@@ -1,0 +1,1 @@
+Is “sometime” sometimes better than “always”?: intermittent assertions in proving program correctness

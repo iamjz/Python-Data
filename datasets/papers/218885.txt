@@ -1,0 +1,1 @@
+A Fault-Tolerant Algorithm for Replicated Data Management

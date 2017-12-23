@@ -1,0 +1,1 @@
+MIDDLE-R: Consistent database replication at the middleware level

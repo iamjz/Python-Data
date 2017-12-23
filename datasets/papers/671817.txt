@@ -1,0 +1,1 @@
+Hash-Partitioned Join Method Using Dynamic Destaging Strategy

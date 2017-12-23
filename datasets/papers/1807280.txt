@@ -1,0 +1,1 @@
+Extreme scale with full SQL language support in microsoft SQL Azure

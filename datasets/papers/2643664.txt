@@ -1,0 +1,1 @@
+Automating the choice of consistency levels in replicated systems

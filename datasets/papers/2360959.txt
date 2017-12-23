@@ -1,0 +1,1 @@
+Consistency Tradeoffs in Modern Distributed Database System Design: CAP is Only Part of the Story

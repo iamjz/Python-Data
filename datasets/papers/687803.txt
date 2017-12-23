@@ -1,0 +1,1 @@
+Peer-to-Peer Resource Trading in a Reliable Distributed System

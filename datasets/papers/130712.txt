@@ -1,0 +1,1 @@
+Counterexamples to a one writer multireader atomic variable construction of Burns and Peterson

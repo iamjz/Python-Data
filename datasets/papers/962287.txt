@@ -1,0 +1,1 @@
+Some definitions, protocols and proofs about secure authentication

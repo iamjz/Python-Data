@@ -1,0 +1,1 @@
+Granularity of locks and degrees of consistency in a shared data base

@@ -1,0 +1,1 @@
+A gossip-style failure detection service

@@ -1,0 +1,1 @@
+Limitations on database availability when networks partition

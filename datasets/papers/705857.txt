@@ -1,0 +1,1 @@
+LFSR-based Hashing and Authentication

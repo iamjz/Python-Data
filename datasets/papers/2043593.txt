@@ -1,0 +1,1 @@
+Don't settle for eventual: scalable causal consistency for wide-area storage with COPS

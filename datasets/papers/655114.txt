@@ -1,0 +1,1 @@
+A Query Sampling Method of Estimating Local Cost Parameters in a Multidatabase System

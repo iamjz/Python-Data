@@ -1,0 +1,1 @@
+Don't Be Lazy, Be Consistent: Postgres-R, A New Way to Implement Database Replication

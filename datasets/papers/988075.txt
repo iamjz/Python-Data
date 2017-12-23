@@ -1,0 +1,1 @@
+Some definitions for algebraic data type specifications

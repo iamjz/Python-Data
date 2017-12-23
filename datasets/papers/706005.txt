@@ -1,0 +1,1 @@
+XOR MACs: New Methods for Message Authentication Using Finite Pseudorandom Functions

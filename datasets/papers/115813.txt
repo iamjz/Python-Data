@@ -1,0 +1,1 @@
+Left-deep vs. bushy trees: an analysis of strategy spaces and its implications for query optimization

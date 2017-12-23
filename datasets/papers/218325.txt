@@ -1,0 +1,1 @@
+The KryptoKnight family of light-weight protocols for authentication and key distribution

@@ -1,0 +1,1 @@
+Synthesizers and their application to the parallel construction of pseudo-random functions

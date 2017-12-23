@@ -1,0 +1,1 @@
+Augmented encrypted key exchange: a password-based protocol secure against dictionary attacks and password file compromise

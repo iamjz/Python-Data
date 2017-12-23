@@ -1,0 +1,1 @@
+A Survey of Techniques for Synchronization and Recovery in Decentralized Computer Systems

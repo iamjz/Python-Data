@@ -1,0 +1,1 @@
+A multifractal wavelet model with application to network traffic

@@ -1,0 +1,1 @@
+Log-based directory resolution in the coda file system

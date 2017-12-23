@@ -1,0 +1,1 @@
+Trading Replication Consistency for Performance and Availability: an Adaptive Approach

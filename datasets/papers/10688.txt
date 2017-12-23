@@ -1,0 +1,1 @@
+An experimental evaluation of the assumption of independence in multiversion programming

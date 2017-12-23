@@ -1,0 +1,1 @@
+Group Membership and View Synchrony in Partitionable Asynchronous Distributed Systems: Specifications

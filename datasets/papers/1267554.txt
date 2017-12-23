@@ -1,0 +1,1 @@
+StackGuard: automatic adaptive detection and prevention of buffer-overflow attacks

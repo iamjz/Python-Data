@@ -1,0 +1,1 @@
+Recovery in distributed systems using asynchronous message logging and checkpointing

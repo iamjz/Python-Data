@@ -1,0 +1,1 @@
+Performance Analysis of Transaction Management Algorithms for the SINTRA Replicated-Architecture Database System

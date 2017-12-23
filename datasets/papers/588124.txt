@@ -1,0 +1,1 @@
+Sacrificing serializability to attain high availability of data in an unreliable network

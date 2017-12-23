@@ -1,0 +1,1 @@
+Camelot and Avalon: a distributed transaction facility

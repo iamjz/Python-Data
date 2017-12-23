@@ -1,0 +1,1 @@
+Concurrency Control and Consistency of Multiple Copies of Data in Distributed Ingres

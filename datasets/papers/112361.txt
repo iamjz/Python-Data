@@ -1,0 +1,1 @@
+A protocol to set up shared secret schemes without the assistance of mutually trusted party

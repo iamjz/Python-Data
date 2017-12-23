@@ -1,0 +1,1 @@
+Performance Measurements of Compressed Bitmap Indices

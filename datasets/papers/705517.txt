@@ -1,0 +1,1 @@
+Necessary and Sufficient Conditions For Collision-Free Hashing

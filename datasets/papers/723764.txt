@@ -1,0 +1,1 @@
+Transaction Model vs. Virtual Synchrony Model: Bridging the Gap

@@ -1,0 +1,1 @@
+A type-theoretic approach to higher-order modules with sharing

@@ -1,0 +1,1 @@
+Real-time computing with lock-free shared objects

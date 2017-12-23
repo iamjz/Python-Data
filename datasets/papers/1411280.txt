@@ -1,0 +1,1 @@
+Scalaris: reliable transactional p2p key/value store

@@ -1,0 +1,1 @@
+Implementing hybrid consistency with high-level synchronization operations

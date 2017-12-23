@@ -1,0 +1,1 @@
+Offering a Precision-Performance Tradeoff for Aggregation Queries over Replicated Data

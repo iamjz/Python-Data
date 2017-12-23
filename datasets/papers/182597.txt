@@ -1,0 +1,1 @@
+Constraint checking with partial information

@@ -1,0 +1,1 @@
+Bounded ignorance: a technique for increasing concurrency in a replicated system

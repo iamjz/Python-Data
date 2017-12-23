@@ -1,0 +1,1 @@
+Systematic Efficient Parallelization of Scan and Other List Homomorphisms

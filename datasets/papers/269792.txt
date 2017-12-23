@@ -1,0 +1,1 @@
+Fast, approximate synthesis of fractional Gaussian noise for generating self-similar network traffic

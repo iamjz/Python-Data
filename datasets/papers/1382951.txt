@@ -1,0 +1,1 @@
+Atomic shared register access by asynchronous hardware

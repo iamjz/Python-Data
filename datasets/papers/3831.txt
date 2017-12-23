@@ -1,0 +1,1 @@
+A mean value performance model for locking in databases: the no-waiting case

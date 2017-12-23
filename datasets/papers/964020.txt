@@ -1,0 +1,1 @@
+Local reasoning about a copying garbage collector

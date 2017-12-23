@@ -1,0 +1,1 @@
+Core-stateless fair queueing: achieving approximately fair bandwidth allocations in high speed networks

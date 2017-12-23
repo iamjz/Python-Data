@@ -1,0 +1,1 @@
+Local verification of global integrity constraints in distributed databases

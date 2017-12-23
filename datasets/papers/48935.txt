@@ -1,0 +1,1 @@
+Analysis of query processing in distributed database systems with fully replicated files: hierarchical approach

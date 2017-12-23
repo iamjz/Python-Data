@@ -1,0 +1,1 @@
+Trading Consistency for Availability in Distributed Systems

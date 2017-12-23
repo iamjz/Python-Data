@@ -1,0 +1,1 @@
+An efficient, fault-tolerant protocol for replicated data management

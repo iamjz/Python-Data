@@ -1,0 +1,1 @@
+A user authentication scheme not requiring secrecy in the computer

@@ -1,0 +1,1 @@
+Modeling the Effect of Technology Trends on the Soft Error Rate of Combinational Logic

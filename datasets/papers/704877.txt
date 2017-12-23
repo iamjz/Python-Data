@@ -1,0 +1,1 @@
+A Modification of the Fiat-Shamir Scheme

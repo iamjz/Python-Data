@@ -1,0 +1,1 @@
+Constructing 1-writer multireader multivalued atomic variables from regular variables

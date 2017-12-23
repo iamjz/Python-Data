@@ -1,0 +1,1 @@
+An adaptive totally ordered multicast protocol that tolerates partitions

@@ -1,0 +1,1 @@
+SLIC: A Selfish Link-Based Incentive Mechanism for Unstructured Peer-to-Peer Networks

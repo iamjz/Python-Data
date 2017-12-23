@@ -1,0 +1,1 @@
+Fast Algorithms for Maintaining Replica Consistency in Lazy Master Replicated Databases

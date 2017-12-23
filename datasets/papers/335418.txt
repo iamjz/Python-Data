@@ -1,0 +1,1 @@
+LH*RS: a high-availability scalable distributed data structure using Reed Solomon Codes

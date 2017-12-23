@@ -1,0 +1,1 @@
+Segmented information dispersal (SID) for efficient reconstruction in fault-tolerant video servers

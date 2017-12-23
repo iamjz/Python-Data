@@ -1,0 +1,1 @@
+A new paradigm for collision-free hashing: incrementality at reduced cost

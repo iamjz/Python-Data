@@ -1,0 +1,1 @@
+Integrating Security in a Group Oriented Distributed System

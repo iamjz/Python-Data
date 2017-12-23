@@ -1,0 +1,1 @@
+A Suite of Database Replication Protocols based on Group Communication Primitives

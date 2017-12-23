@@ -1,0 +1,1 @@
+A high availability   N  hierarchical grid algorithm for replicated data

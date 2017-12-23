@@ -1,0 +1,1 @@
+Self-similarity through high-variability: statistical analysis of Ethernet LAN traffic at the source level

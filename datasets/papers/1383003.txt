@@ -1,0 +1,1 @@
+Random self-reducibility and zero knowledge interactive proofs of possession of information

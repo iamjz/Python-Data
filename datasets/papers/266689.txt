@@ -1,0 +1,1 @@
+CPU reservations and time constraints: efficient, predictable scheduling of independent activities

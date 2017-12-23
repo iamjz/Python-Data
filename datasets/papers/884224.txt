@@ -1,0 +1,1 @@
+A General Theory of Composition for Trace Sets Closed under Selective Interleaving Functions

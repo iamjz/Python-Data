@@ -1,0 +1,1 @@
+Weighted voting for operation dependent management of replicated data

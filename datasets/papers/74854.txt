@@ -1,0 +1,1 @@
+Simple but effective techniques for NUMA memory management

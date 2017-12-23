@@ -1,0 +1,1 @@
+Replica control protocols that guarantee high availability and low access cost

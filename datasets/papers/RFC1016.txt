@@ -1,0 +1,1 @@
+Something a host could do with source quench: The Source Quench Introduced Delay (SQuID)

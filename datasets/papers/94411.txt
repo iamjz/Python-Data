@@ -1,0 +1,1 @@
+Parity striping of disc arrays: low-cost reliable storage with acceptable throughput

@@ -1,0 +1,1 @@
+Abstraction in Concurrency Control and Recovery Management

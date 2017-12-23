@@ -1,0 +1,1 @@
+Specification and implementation of resilient, atomic data types

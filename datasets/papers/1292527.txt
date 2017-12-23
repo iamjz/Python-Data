@@ -1,0 +1,1 @@
+Programming distributed erlang applications: pitfalls and recipes

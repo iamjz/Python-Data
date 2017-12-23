@@ -1,0 +1,1 @@
+Maintaining Global Integrity Constraints in DistributedDatabases

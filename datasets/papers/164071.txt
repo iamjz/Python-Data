@@ -1,0 +1,1 @@
+A completeness theorem for a class of synchronization objects

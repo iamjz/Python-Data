@@ -1,0 +1,1 @@
+Deterministic delay bounds for VBR video in packet-switching networks: fundamental limits and practical trade-offs

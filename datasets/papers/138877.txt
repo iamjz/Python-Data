@@ -1,0 +1,1 @@
+Providing high availability using lazy replication

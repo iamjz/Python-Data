@@ -1,0 +1,1 @@
+Using process groups to implement failure detection in asynchronous environments

@@ -1,0 +1,1 @@
+Minimizing the Maximum Delay for Reaching Consensus in Quorum-Based Mutual Exclusion Schemes

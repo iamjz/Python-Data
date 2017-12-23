@@ -1,0 +1,1 @@
+A correctness condition for high-performance multiprocessors (extended abstract)

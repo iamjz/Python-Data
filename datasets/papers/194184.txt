@@ -1,0 +1,1 @@
+Computer-aided verification of coordinating processes: the automata-theoretic approach

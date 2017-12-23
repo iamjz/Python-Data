@@ -1,0 +1,1 @@
+Design and evaluation of a conit-based continuous consistency model for replicated services

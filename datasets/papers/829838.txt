@@ -1,0 +1,1 @@
+Group Communication as an Infrastructure for Distributed System Management

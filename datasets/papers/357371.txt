@@ -1,0 +1,1 @@
+Fail-stop processors: an approach to designing fault-tolerant computing systems

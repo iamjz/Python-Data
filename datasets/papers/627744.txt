@@ -1,0 +1,1 @@
+VELOS: A New Approach for Efficiently Achieving High Availability in Partitioned Distributed Systems

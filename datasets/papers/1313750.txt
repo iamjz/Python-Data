@@ -1,0 +1,1 @@
+A Formal Model of Crash Recovery in a Distributed System

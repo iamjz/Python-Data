@@ -1,0 +1,1 @@
+Quasi-Copies: Efficient Data Sharing for Information Retrieval Systems

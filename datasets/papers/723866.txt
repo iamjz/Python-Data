@@ -1,0 +1,1 @@
+The Object Model: A Conceptual Tool for Structuring Software

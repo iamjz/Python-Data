@@ -1,0 +1,1 @@
+Recovery in distributed systems using optimistic message logging and check-pointing

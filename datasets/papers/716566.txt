@@ -1,0 +1,1 @@
+Hash Functions Based on Block Ciphers and Quaternary Codes

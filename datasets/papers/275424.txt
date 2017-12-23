@@ -1,0 +1,1 @@
+A Metaobject Architecture for Fault-Tolerant Distributed Systems: The FRIENDS Approach

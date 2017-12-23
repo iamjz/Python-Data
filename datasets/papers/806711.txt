@@ -1,0 +1,1 @@
+Efficient commit protocols for the tree of processes model of distributed transactions

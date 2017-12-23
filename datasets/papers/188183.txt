@@ -1,0 +1,1 @@
+Hash functions based on block ciphers: a synthetic approach

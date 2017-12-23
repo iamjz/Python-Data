@@ -1,0 +1,1 @@
+Self-stabilization of dynamic systems assuming only read/write atomicity

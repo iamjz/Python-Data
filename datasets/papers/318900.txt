@@ -1,0 +1,1 @@
+Direct spatial search on pictorial databases using packed R-trees

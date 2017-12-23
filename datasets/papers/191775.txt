@@ -1,0 +1,1 @@
+Visual information seeking: tight coupling of dynamic query filters with starfield displays

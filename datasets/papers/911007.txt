@@ -1,0 +1,1 @@
+Issues of network transparency and file replication in the distributed filesystem component of locus (system)

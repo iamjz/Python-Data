@@ -1,0 +1,1 @@
+Byzantine generals in action: implementing fail-stop processors

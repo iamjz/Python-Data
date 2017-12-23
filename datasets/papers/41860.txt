@@ -1,0 +1,1 @@
+A protocol for wait-free, atomic, multi-reader shared variables

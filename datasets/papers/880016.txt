@@ -1,0 +1,1 @@
+General design of grid-based data replication schemes using graphs and a few rules

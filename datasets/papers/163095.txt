@@ -1,0 +1,1 @@
+Merging application-centric and data-centric approaches to support transaction-oriented multi-system workflows

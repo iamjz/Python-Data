@@ -1,0 +1,1 @@
+SONIA: An Adaptation of LINDA for Coordination of Activities in Organisations

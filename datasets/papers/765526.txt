@@ -1,0 +1,1 @@
+Advanced data processing in KRISYS: modeling concepts, implementation techniques, and client/server issues

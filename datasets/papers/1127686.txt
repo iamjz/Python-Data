@@ -1,0 +1,1 @@
+Navigating in the Storm: Using Astrolabe to Adaptively Configure Web Services and Their Clients

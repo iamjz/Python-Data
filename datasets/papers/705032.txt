@@ -1,0 +1,1 @@
+A Design Principle for Hash Functions

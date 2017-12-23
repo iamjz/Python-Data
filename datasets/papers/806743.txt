@@ -1,0 +1,1 @@
+An asynchronous [(n - 1)/3]-resilient consensus protocol

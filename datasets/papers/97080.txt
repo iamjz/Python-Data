@@ -1,0 +1,1 @@
+Synchronous atomic broadcast for redundant broadcast for redundant channels

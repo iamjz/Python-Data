@@ -1,0 +1,1 @@
+Reliable object storage to support atomic actions

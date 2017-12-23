@@ -1,0 +1,1 @@
+Intermedia: A case study of the differences between relational and object-oriented database systems

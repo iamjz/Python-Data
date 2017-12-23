@@ -1,0 +1,1 @@
+The 5 minute rule for trading memory for disc accesses and the 10 byte rule for trading memory for CPU time

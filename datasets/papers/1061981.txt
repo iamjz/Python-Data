@@ -1,0 +1,1 @@
+Necessary and sufficient conditions on information for causal message ordering and their optimal implementation

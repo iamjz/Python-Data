@@ -1,0 +1,1 @@
+Consensus in the presence of timing uncertainty: omission and Byzantine failures (extended abstract)

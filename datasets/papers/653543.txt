@@ -1,0 +1,1 @@
+Modeling the Effects of Data and Resource Contention on the Performance of Optimistic Concurrency Control Protocols

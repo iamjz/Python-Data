@@ -1,0 +1,1 @@
+Optimality of wait-free atomic multiwriter variables

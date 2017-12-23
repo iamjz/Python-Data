@@ -1,0 +1,1 @@
+Transaction management in the R* distributed database management system

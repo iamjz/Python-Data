@@ -1,0 +1,1 @@
+Fast allocation of nearby resources in a distributed system

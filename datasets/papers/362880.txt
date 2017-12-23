@@ -1,0 +1,1 @@
+Programming Technique: An improved hash code for scatter storage

@@ -1,0 +1,1 @@
+Distributed RAID - A New Multiple Copy Algorithm

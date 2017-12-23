@@ -1,0 +1,1 @@
+A predicate-based caching scheme for client-server database architectures

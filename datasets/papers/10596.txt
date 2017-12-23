@@ -1,0 +1,1 @@
+A communication-efficient canonical form for fault-tolerant distributed protocols

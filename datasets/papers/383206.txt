@@ -1,0 +1,1 @@
+Capabilities-based query rewriting in mediator systems

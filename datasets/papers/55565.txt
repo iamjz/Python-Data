@@ -1,0 +1,1 @@
+A practical zero-knowledge protocol fitted to security microprocessor minimizing both transmission and memory

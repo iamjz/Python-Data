@@ -1,0 +1,1 @@
+The Location-Based Paradigm for Replication: Achieving Efficiency and Availability in Distributed Systems

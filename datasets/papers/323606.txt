@@ -1,0 +1,1 @@
+Site optimal termination protocols for a distributed database under network partitioning

@@ -1,0 +1,1 @@
+Greedy algorithms in Datalog with choice and negation

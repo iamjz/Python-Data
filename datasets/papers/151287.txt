@@ -1,0 +1,1 @@
+Cost and availability tradeoffs in replicated data concurrency control

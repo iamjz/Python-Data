@@ -1,0 +1,1 @@
+G-Store: a scalable data store for transactional multi key access in the cloud

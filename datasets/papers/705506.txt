@@ -1,0 +1,1 @@
+Shared Generation of Authenticators and Signatures (Extended Abstract)

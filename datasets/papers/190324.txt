@@ -1,0 +1,1 @@
+Credit-based flow control for ATM networks: credit update protocol, adaptive credit allocation and statistical multiplexing

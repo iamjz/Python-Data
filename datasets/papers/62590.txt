@@ -1,0 +1,1 @@
+A combinatorial characterization of the distributed tasks which are solvable in the presence of one faulty processor

@@ -1,0 +1,1 @@
+A formal approach to recovery by compensating transactions

@@ -1,0 +1,1 @@
+A Simple and Efficient Randomized Byzantine Agreement Algorithm

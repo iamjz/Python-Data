@@ -1,0 +1,1 @@
+A distributed transaction processing protocol based on majority consensus

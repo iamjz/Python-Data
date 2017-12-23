@@ -1,0 +1,1 @@
+Concurrent programming in ERLANG (2nd ed.)

@@ -1,0 +1,1 @@
+SCRIBE: The Design of a Large-Scale Event Notification Infrastructure

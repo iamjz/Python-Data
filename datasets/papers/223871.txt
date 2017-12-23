@@ -1,0 +1,1 @@
+“One size fits all” database architectures do not work for DSS

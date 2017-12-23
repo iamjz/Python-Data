@@ -1,0 +1,1 @@
+A New Solution to Lamport's Concurrent Programming Problem Using Small Shared Variables

@@ -1,0 +1,1 @@
+The modified object buffer: a storage management technique for object-oriented databases

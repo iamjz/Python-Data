@@ -1,0 +1,1 @@
+A universal computer capable of executing an arbitrary number of sub-programs simultaneously

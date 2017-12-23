@@ -1,0 +1,1 @@
+High-performance remote access to climate simulation data: a challenge problem for data grid technologies

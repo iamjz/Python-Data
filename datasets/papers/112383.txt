@@ -1,0 +1,1 @@
+A remark on signature scheme where forgery can be proved

@@ -1,0 +1,1 @@
+A distributed algorithm for detecting resource deadlocks in distributed systems

@@ -1,0 +1,1 @@
+A Framework for Highly Available Services Based on Group Communication

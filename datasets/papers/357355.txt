@@ -1,0 +1,1 @@
+Implementing atomic actions on decentralized data
