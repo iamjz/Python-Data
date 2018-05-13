@@ -1,0 +1,232 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "intent": "chuckNorris",
+        "text": "I need some more Chuck Norris in my life."
+      },
+      {
+        "intent": "chuckNorris",
+        "text": "I want to hear a Chuck Norris joke!"
+      },
+      {
+        "intent": "chuckNorris",
+        "entities": [
+          {
+            "start": 41,
+            "end": 45,
+            "value": "love",
+            "entity": "query"
+          }
+        ],
+        "text": "I want to hear a chuck Norris joke about love."
+      },
+      {
+        "intent": "chuckNorris",
+        "text": "Tell me a chuck norris joke."
+      },
+      {
+        "intent": "chuckNorris",
+        "entities": [
+          {
+            "start": 34,
+            "end": 38,
+            "value": "golf",
+            "entity": "query"
+          }
+        ],
+        "text": "Tell me a chuck norris joke about golf."
+      },
+      {
+        "intent": "chuckNorris",
+        "text": "chuck norris"
+      },
+      {
+        "intent": "chuckNorris",
+        "entities": [
+          {
+            "start": 18,
+            "end": 26,
+            "value": "baseball",
+            "entity": "query"
+          }
+        ],
+        "text": "chuck norris joke baseball"
+      },
+      {
+        "intent": "chuckNorris",
+        "entities": [
+          {
+            "start": 0,
+            "end": 8,
+            "value": "business",
+            "entity": "query"
+          }
+        ],
+        "text": "business chuck Norris joke"
+      },
+      {
+        "intent": "chuckNorris",
+        "entities": [
+          {
+            "start": 35,
+            "end": 45,
+            "value": "television",
+            "entity": "query"
+          }
+        ],
+        "text": "What does Chuck Norris think about television?"
+      },
+      {
+        "intent": "chuckNorris",
+        "text": "Tell me something about Chuck Norris"
+      },
+      {
+        "intent": "advice",
+        "text": "I need some good advice"
+      },
+      {
+        "intent": "advice",
+        "text": "I need some advice"
+      },
+      {
+        "intent": "advice",
+        "entities": [
+          {
+            "start": 25,
+            "end": 29,
+            "value": "love",
+            "entity": "query"
+          }
+        ],
+        "text": "I need some advice about love"
+      },
+      {
+        "intent": "advice",
+        "entities": [
+          {
+            "start": 27,
+            "end": 31,
+            "value": "life",
+            "entity": "query"
+          }
+        ],
+        "text": "What can you tell me about life"
+      },
+      {
+        "intent": "advice",
+        "entities": [
+          {
+            "start": 22,
+            "end": 30,
+            "value": "painting",
+            "entity": "query"
+          }
+        ],
+        "text": "I need some help with painting"
+      },
+      {
+        "intent": "advice",
+        "entities": [
+          {
+            "start": 16,
+            "end": 19,
+            "value": "job",
+            "entity": "query"
+          }
+        ],
+        "text": "Help me with my job problem."
+      },
+      {
+        "intent": "advice",
+        "entities": [
+          {
+            "start": 25,
+            "end": 34,
+            "value": "boyfriend",
+            "entity": "query"
+          }
+        ],
+        "text": "I need some help with my boyfriend."
+      },
+      {
+        "intent": "advice",
+        "entities": [
+          {
+            "start": 24,
+            "end": 28,
+            "value": "life",
+            "entity": "query"
+          }
+        ],
+        "text": "Tell me something about life."
+      },
+      {
+        "intent": "advice",
+        "text": "advice"
+      },
+      {
+        "intent": "advice",
+        "text": "I need advice."
+      },
+      {
+        "intent": "greet",
+        "text": "hello"
+      },
+      {
+        "intent": "greet",
+        "text": "Howdy"
+      },
+      {
+        "intent": "greet",
+        "text": "Hola"
+      },
+      {
+        "intent": "greet",
+        "text": "good morning"
+      },
+      {
+        "intent": "greet",
+        "text": "good afternoon"
+      },
+      {
+        "intent": "greet",
+        "text": "hey"
+      },
+      {
+        "intent": "chuckNorris",
+        "entities": [
+          {
+            "start": 35,
+            "end": 41,
+            "value": "school",
+            "entity": "query"
+          }
+        ],
+        "text": "Is there a Chuck Norris joke about school?"
+      },
+      {
+        "intent": "goodbye",
+        "text": "C-Ya"
+      },
+      {
+        "intent": "goodbye",
+        "text": "Goodbye"
+      },
+      {
+        "intent": "goodbye",
+        "text": "bye"
+      },
+      {
+        "intent": "goodbye",
+        "text": "Ciao"
+      },
+      {
+        "intent": "goodbye",
+        "text": "later"
+      }
+    ],
+    "regex_features": [],
+    "entity_synonyms": []
+  }
+}
